@@ -26,33 +26,33 @@ Passionnée par l’analyse de données et l’intelligence artificielle, j’ai
 
 Projet phare de **Machine Learning** appliqué à la santé.
 
-- Construction d’un **système de prédiction** du risque cardiovasculaire à partir de données patients.
-- Modèles : Régression Logistique, KNN, Arbre de Décision, Random Forest.
-- Réduction de dimension avec **PCA**, segmentation avec **K-Means**.
-- Déploiement d’une **application interactive Streamlit** pour tester le risque en ligne.
+- Construction d’un **système de prédiction** du risque cardiovasculaire à partir de données patients.  
+- Implémentation et évaluation de modèles : **Régression Logistique, KNN, Arbre de Décision, Random Forest**.  
+- Réduction de dimension avec **PCA**, segmentation avec **K-Means**.  
+- Déploiement d’une **application interactive Streamlit** pour tester le risque en ligne.  
 
 🔗 **Application Streamlit Cloud** :  
-➡️ [Lien de l’application](https://TON-LIEN-STREAMLIT-ICI)
+➡️ [Lien de l’application](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 🔗 **Code du projet** :  
-➡️ Repo GitHub : `cardiovascular-disease-prediction`
+➡️ [Repo GitHub](https://github.com/KalsoumDS/cardiovascular-disease-prediction)
 
 ---
 
 ### 🚢 Classification de navires sur images aériennes (Deep Learning, 2025)
 
-- Utilisation de **CNN** pour classifier des navires sur images aériennes (dataset Kaggle).
-- Architectures : **MobileNetV2, EfficientNet, ConvNeXt, InternImage**.
-- Prétraitement : **normalisation**, **augmentation de données**.
-- Optimisation des performances et comparaison des modèles.
+- Utilisation de **réseaux de neurones convolutifs (CNN)** pour classifier des navires sur des images aériennes (dataset Kaggle).  
+- Architectures testées : **MobileNetV2, EfficientNet, ConvNeXt, InternImage**.  
+- Prétraitement des données : **normalisation**, **augmentation de données**.  
+- Optimisation des performances (fine-tuning, réglage des hyperparamètres).  
 
 ---
 
-### 📈 Inclusion Financière & Croissance Économique (Économétrie, 2024)
+### 📈 Inclusion Financière & Croissance Économique (2024)
 
-- Analyse de l’effet de l’**inclusion financière** sur la **croissance économique** des pays de l’UEMOA (2004–2016).
-- Travail sur **données de panel** avec STATA et R.
-- Rédaction de rapports techniques et interprétation des résultats.
+- Analyse de l’effet de l’**inclusion financière** sur la **croissance économique** des pays de l’UEMOA (2004–2016).  
+- Travail sur **données de panel**, modélisation économétrique.  
+- Outils : **STATA** et **R**, rédaction de rapports techniques.  
 
 ---
 
@@ -78,13 +78,13 @@ Projet phare de **Machine Learning** appliqué à la santé.
 ### Data & IA
 
 - Machine Learning, Data Mining, Deep Learning  
-- Feature Engineering, **modélisation prédictive**
+- Feature Engineering, **modélisation prédictive**  
 
 ### Économétrie & Statistiques
 
 - Régressions (linéaire, logistique)  
 - ACP, AFC, ANOVA, tests statistiques  
-- Données de panel
+- Données de panel  
 
 ### Bases de données & Outils
 
@@ -107,6 +107,18 @@ Projet phare de **Machine Learning** appliqué à la santé.
 
 - 🇫🇷 **Français** : C2 (maîtrise)  
 - 🇬🇧 **Anglais** : B1/B2 (intermédiaire – lecture et rédaction technique)
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
