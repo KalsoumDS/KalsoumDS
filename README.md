@@ -1,123 +1,121 @@
 <div align="center">
-  <h1>OUMOU KALTOUM SALL</h1>
-  <h3>Data Scientist &nbsp;|&nbsp; Data Science & Intelligence Artificielle</h3>
-  
-  <p>
-    <a href="mailto:s.sall@mundiapolis.ma"><img src="https://img.shields.io/badge/Email-s.sall%40mundiapolis.ma-blue?style=for-the-badge&logo=gmail" /></a>
-    <a href="tel:+212665682734"><img src="https://img.shields.io/badge/Téléphone-+212%20665%20682734-green?style=for-the-badge&logo=whatsapp" /></a>
-    <a href="https://github.com/KalsoumDS"><img src="https://img.shields.io/badge/GitHub-KalsoumDS-black?style=for-the-badge&logo=github" /></a>
-  </p>
 
-  <p>📍 Ziraoui, Casablanca &nbsp;·&nbsp; 🔍 À la recherche d'un stage de fin d'études (janvier 2026)</p>
+# OUMOU KALTOUM SALL  
+### Data Scientist · Data Science & IA
+
+📍 Ziraoui, Casablanca · 🎯 Recherche de stage de fin d’études (janvier 2026)  
+
+[![Email](https://img.shields.io/badge/Email-s.sall%40mundiapolis.ma-blue?style=for-the-badge&logo=gmail)](mailto:s.sall@mundiapolis.ma)
+[![GitHub](https://img.shields.io/badge/GitHub-KalsoumDS-black?style=for-the-badge&logo=github)](https://github.com/KalsoumDS)
+
 </div>
 
 ---
 
-## 🧑‍💼 À propos
+## 👩‍💻 À propos
 
-Actuellement en Master 2 Data Science & Intelligence Artificielle à l’Université Mundiapolis de Casablanca, je recherche un stage de fin d’études à partir de **janvier 2026**.
+Master 2 **Data Science & Intelligence Artificielle** à l’Université Mundiapolis.  
+J’aime transformer des données réelles (santé, finance, économie) en **modèles prédictifs** utiles et interprétables.
 
-Passionnée par l’analyse de données et l’intelligence artificielle, j’ai mené plusieurs projets en **machine learning**, **deep learning** et **économétrie**. Mon objectif est de mettre mes compétences au service d’équipes ambitieuses dans les domaines **data**, **finance**, **santé** ou **industrie**.
-
----
-
-## 🎓 Formations
-
-- **Master Data Science & Intelligence Artificielle** – Université Mundiapolis de Casablanca  
-  _2024 – 2026_
-- **Licence de Mathématiques Appliquées** – Institut Supérieur de Management (ISM)  
-  _2021 – 2024_
-- **Baccalauréat Scientifique, Série S2** – Institution Marc PERROT  
-  _2020 – 2021_
+Je m’intéresse particulièrement à :
+- 🩺 **Data science pour la santé**
+- 📊 **Économétrie & inclusion financière**
+- 🧠 **Machine Learning & Deep Learning appliqués**
 
 ---
 
-## 🧪 Expériences académiques & Projets
+## 🚀 Projets phares
 
-### 🫀 Projet phare – Prédiction des maladies cardiovasculaires (Machine Learning, 2025)
-- Construction d’un **système de prédiction** du risque cardiovasculaire à partir de données patients.
-- Implémentation et évaluation de plusieurs modèles : **Régression Logistique, KNN, Arbre de Décision, Random Forest**.
-- Réduction de dimension avec **PCA** et segmentation avec **K-Means**.
-- Déploiement d’une **application interactive avec Streamlit** pour les démonstrations.
-- 🔗 Projet GitHub : `cardiovascular-disease-prediction` (dans mon profil GitHub).
+### 🫀 Prédiction des maladies cardiovasculaires
+**Machine Learning · Santé · Projet phare**
 
----
+- Modèles : Régression Logistique, KNN, Arbre de Décision, Random Forest  
+- Réduction de dimension : **PCA**, segmentation : **K-Means**  
+- Application **interactive** (Streamlit) pour tester le risque selon les variables patients  
+- Focus sur l’**interprétation des résultats** pour les non-techniciens  
 
-### 🚢 Classification de navires sur images aériennes (Deep Learning, 2025)
-- Utilisation de **réseaux de neurones convolutifs (CNN)** pour classifier des navires sur des images aériennes (dataset Kaggle).
-- Expérimentation de plusieurs architectures avancées : **MobileNetV2, EfficientNet, ConvNeXt, InternImage**.
-- Prétraitement des données : **normalisation, augmentation de données**.
-- Optimisation des performances (fine-tuning, réglage des hyperparamètres).
+🔗 Repo : `cardiovascular-disease-prediction` (dans mes dépôts GitHub)
 
 ---
 
-### 📈 Inclusion financière & croissance économique (Économétrie, 2024)
-- Analyse de l’effet de l’**inclusion financière** sur la **croissance économique** des pays de l’UEMOA (2004–2016).
-- Utilisation de **données de panel** et de méthodes économétriques avancées.
-- Outils : **STATA** et **R** pour la modélisation et la rédaction de rapports techniques.
+### 🚢 Classification de navires sur images aériennes
+**Deep Learning · Vision par ordinateur**
+
+- CNN avec architectures **MobileNetV2, EfficientNet, ConvNeXt, InternImage**  
+- Prétraitement : normalisation, augmentation de données  
+- Optimisation des performances et comparaison de plusieurs modèles  
+
+🔗 Repo : `DeepLearning-Project-1`
 
 ---
 
-## 💻 Compétences techniques
+### 📈 Inclusion financière & croissance économique (UEMOA, 2004–2016)
+**Économétrie · Données de panel**
 
-### Langages de programmation
-- Python  
-- R  
-- Java
+- Analyse de l’impact de l’**inclusion financière** sur la **croissance économique**  
+- Modélisation avec des **données de panel** (pays de l’UEMOA)  
+- Outils : **STATA**, **R**, rédaction de rapports techniques détaillés  
+
+---
+
+## 🧠 Compétences
+
+### Langages
+- Python · R · Java  
+- SQL · NoSQL (MongoDB)
 
 ### Data Science & IA
-- Machine Learning, Data Mining, Deep Learning
-- Feature Engineering, **modélisation prédictive**
-- Évaluation de modèles, métriques de performance
+- Machine Learning, Data Mining, Deep Learning  
+- Feature Engineering, **modélisation prédictive**  
+- Évaluation de modèles & métriques
 
 ### Économétrie & Statistiques
-- Régressions (linéaire, logistique)
-- ACP, AFC, analyses factorielles
-- ANOVA, tests statistiques
+- Régressions (linéaire, logistique)  
+- ACP, AFC, analyses factorielles  
+- ANOVA, tests d’hypothèses  
 - Données de panel
 
-### Bases de données
-- SQL
-- NoSQL (**MongoDB**)
-
 ### Outils & Visualisation
-- Tableau
-- Seaborn, Matplotlib
+- Tableau  
+- Seaborn, Matplotlib  
 - Jupyter Notebook, VS Code, Git/GitHub
 
 ---
 
-## 🧩 Compétences clés
+## 🎓 Parcours académique
 
-- Analyse et **vulgarisation des résultats**
-- Autonomie et rigueur
-- Travail collaboratif
-- Esprit d’initiative
+- 🎓 **Master Data Science & IA** – Université Mundiapolis de Casablanca (2024–2026)  
+- 🎓 **Licence de Mathématiques Appliquées** – ISM (2021–2024)  
+- 🎓 **Baccalauréat Scientifique, Série S2** – Institution Marc PERROT (2020–2021)  
 
 ---
 
 ## 🌐 Langues
 
-- 🇫🇷 **Français** : C2 – Maîtrise
-- 🇬🇧 **Anglais** : B1/B2 – Intermédiaire (lecture et rédaction technique)
+- 🇫🇷 **Français** : C2 – Maîtrise  
+- 🇬🇧 **Anglais** : B1/B2 – Intermédiaire (lecture & rédaction technique)
 
 ---
 
 ## 📊 Statistiques GitHub
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ---
 
-## 📫 Contact
+## 📫 Me contacter
 
 - 📧 Email : [s.sall@mundiapolis.ma](mailto:s.sall@mundiapolis.ma)  
 - 📱 Téléphone : +212 665 682734  
 - 🌍 GitHub : [github.com/KalsoumDS](https://github.com/KalsoumDS)
 
 <div align="center">
-  <br/>
-  <strong>Merci de votre visite 🙌<br/>N’hésitez pas à explorer mes projets et à me contacter pour toute opportunité de stage ou de collaboration.</strong>
+  <br />
+  <strong>Merci pour votre visite 🙌<br />N’hésitez pas à explorer mes projets et à me contacter pour une opportunité de stage ou de collaboration.</strong>
 </div>
