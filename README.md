@@ -36,7 +36,7 @@ Chatbot LLM pour **AutoML sur données tabulaires** avec interface Streamlit int
 - Détection automatique de tâche (classification/régression)  
 
 🔗 **Live demo (Streamlit Cloud)**  
-➡️ [Tester l'application](https://kalsoumds-chatautoml-bot-streamlit.streamlit.app)
+➡️ [Tester l'application](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
 
 🔗 **Code source**  
 ➡️ [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
