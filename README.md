@@ -83,7 +83,7 @@ Pipeline MLOps complet avec **DVC**, **MLflow** et **PyTorch** pour un projet de
 - Évaluation et logging des métriques  
 
 🔗 **Code source**  
-➡️ [Projet MLOps - Code disponible sur demande]
+➡️ [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
 
 🛠️ **Stack** : Python, PyTorch, scikit-learn, MLflow, DVC, Git
 
@@ -98,7 +98,7 @@ Projet de **fusion de capteurs** pour la détection d'objets en environnement ro
 - Notebook complet avec visualisations 3D  
 
 🔗 **Code source**  
-➡️ [Projet Robotique - Code disponible sur demande]
+➡️ [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
 
 🛠️ **Stack** : Python, OpenCV, PCL, NumPy, Matplotlib, Jupyter
 
