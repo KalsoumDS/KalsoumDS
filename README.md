@@ -175,3 +175,4 @@ Projet de **fusion de capteurs** pour la détection d'objets en environnement ro
   <br />
   <strong>Merci de votre visite ��<br />Vous pouvez explorer mes projets ci‑dessus pour découvrir mes travaux en data science & IA.</strong>
 </div>
+
