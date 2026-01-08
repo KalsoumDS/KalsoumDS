@@ -26,25 +26,6 @@ Mes centres d'intérêt principaux :
 
 ## 🚀 Projets phares
 
-### 🤖 ChatAutoML-Bot – IA Avancée (2025)
-
-Chatbot LLM pour **AutoML sur données tabulaires** avec interface Streamlit interactive.
-
-- Chargement multi-formats (CSV, Excel, Parquet, JSON)  
-- Pipeline AutoML complet : prétraitement, rééchantillonnage, recherche de modèles, évaluation  
-- Explications en langage naturel via LLM (Ollama/OpenAI/Mistral)  
-- Détection automatique de tâche (classification/régression)  
-
-🔗 **Live demo (Streamlit Cloud)**  
-➡️ [Tester l'application](https://kalsoumds-chatautoml-bot-streamlit.streamlit.app)
-
-🔗 **Code source**  
-➡️ [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-
-🛠️ **Stack** : Python, Streamlit, scikit-learn, pandas, plotly, Ollama, MLflow
-
----
-
 ### 🫀 Système de prédiction des maladies cardiovasculaires (2025)
 
 Projet complet de **Machine Learning** appliqué à la santé.
