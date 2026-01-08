@@ -73,6 +73,37 @@ Projet complet de **Machine Learning** appliqué à la santé.
 
 ---
 
+### 📦 MLOps – Déploiement de modèles IA (2025)
+
+Pipeline MLOps complet avec **DVC**, **MLflow** et **PyTorch** pour un projet de classification binaire.
+
+- Prétraitement automatique (imputation, encodage, normalisation)  
+- Entraînement réseau de neurones (ANN) avec tracking MLflow  
+- Gestion des données avec DVC (versioning)  
+- Évaluation et logging des métriques  
+
+🔗 **Code source**  
+➡️ [Repo GitHub](https://github.com/kalsoumds/mlops-exam)
+
+🛠️ **Stack** : Python, PyTorch, scikit-learn, MLflow, DVC, Git
+
+---
+
+### 🤖 Robotique – Fusion Camera/LiDAR (2025)
+
+Projet de **fusion de capteurs** pour la détection d'objets en environnement routier (dataset KITTI).
+
+- Fusion de données caméra et LiDAR  
+- Détection et suivi d'objets  
+- Notebook complet avec visualisations 3D  
+
+🔗 **Code source**  
+➡️ [Repo GitHub](https://github.com/kalsoumds/TP4-ROBO)
+
+🛠️ **Stack** : Python, OpenCV, PCL, NumPy, Matplotlib, Jupyter
+
+---
+
 ### 📈 Inclusion Financière & Croissance Économique (2024)
 
 - Étude de l'impact de l'**inclusion financière** sur la **croissance économique** dans les pays de l'UEMOA (2004–2016).  
