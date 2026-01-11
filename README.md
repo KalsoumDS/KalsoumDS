@@ -83,7 +83,7 @@ Pipeline MLOps complet avec **DVC**, **MLflow** et **PyTorch** pour un projet de
 - Évaluation et logging des métriques  
 
 🔗 **Code source**  
-➡️ [Repo GitHub - En cours de création]
+➡️ [Repo GitHub](https://github.com/kalsoumds/IA-Complete-Project)
 
 🛠️ **Stack** : Python, PyTorch, scikit-learn, MLflow, DVC, Git
 
