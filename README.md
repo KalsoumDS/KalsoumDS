@@ -83,7 +83,7 @@ Pipeline MLOps complet avec **DVC**, **MLflow** et **PyTorch** pour un projet de
 - Évaluation et logging des métriques  
 
 🔗 **Code source**  
-➡️ [Repo GitHub](https://github.com/kalsoumds/IA-Complete-Project)
+➡️ [Repo GitHub](https://github.com/kalsoumds/automl-pipeline)
 
 🛠️ **Stack** : Python, PyTorch, scikit-learn, MLflow, DVC, Git
 
@@ -98,7 +98,7 @@ Projet de **fusion de capteurs** pour la détection d'objets en environnement ro
 - Notebook complet avec visualisations 3D  
 
 🔗 **Code source**  
-➡️ [Repo GitHub - En cours de création]
+➡️ [Repo GitHub](https://github.com/kalsoumds/TP4)
 
 🛠️ **Stack** : Python, OpenCV, PCL, NumPy, Matplotlib, Jupyter
 
