@@ -69,7 +69,7 @@ Projet complet de **Machine Learning** appliqué à la santé.
 - Prétraitement : normalisation, augmentation de données.  
 - Comparaison des performances et optimisation des hyperparamètres.  
 
-➡️ Repo : `DeepLearning-Project-1` sur mon GitHub
+➡️ [Repo GitHub](https://github.com/KalsoumDS/DeepLearning-Project-1)
 
 ---
 
