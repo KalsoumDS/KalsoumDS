@@ -2,8 +2,8 @@
 
 ## Data Scientist · Data Science & Intelligence Artificielle
 
-📍 **Casablanca, 20200, Morocco**  
-📧 **s.sall@mundiapolis.ma**  
+📍 **Casablanca, 20200, Maroc**  
+📧 **oumoukaltoumsall@gmail.com**  
 📱 **+212 665 682734**  
 🔗 **GitHub** : [github.com/KalsoumDS](https://github.com/KalsoumDS)
 
@@ -11,25 +11,25 @@
 
 ## 👩‍💻 À propos
 
-Master's student in Data Science & Artificial Intelligence, dynamic and organized, with a strong background in Applied Mathematics and advanced analytical skills. Experienced in data-driven project development and analysis, applying machine learning and technical skills to solve real-world problems.
+Étudiante Master en Data Science & Intelligence Artificielle, dynamique et organisée, avec une solide formation en Mathématiques Appliquées et des compétences analytiques avancées. Expérimentée dans le développement de projets basés sur les données et l'analyse, appliquant le machine learning et les compétences techniques pour résoudre des problèmes réels.
 
-Seeking a challenging internship to contribute to development and deployment of innovative digital solutions.
+Recherche un stage stimulant pour contribuer au développement et au déploiement de solutions numériques innovantes.
 
 ---
 
 ## 🚀 Projets Phares
 
-### 🤖 TabularAI – Automated Machine Learning System (2025)
+### 🤖 TabularAI – Système AutoML pour Données Tabulaires
 
-**End-to-end AutoML system for tabular datasets with interactive interface.**
+**Système AutoML de bout en bout pour datasets tabulaires avec interface interactive.**
 
-#### �� Fonctionnalités
-- Automated preprocessing, model selection, hyperparameter optimization, and evaluation  
-- Built interactive Streamlit interface for non-technical users  
-- Integrated local LLM (Ollama – Llama2) for natural language explanations  
+#### 🎯 Fonctionnalités
+- Prétraitement automatisé, sélection de modèles, optimisation des hyperparamètres et évaluation  
+- Interface Streamlit interactive pour utilisateurs non techniques  
+- Intégration LLM local (Ollama – Llama2) pour explications en langage naturel  
 
 #### 🔗 Liens
-- **🌐 Live Demo** : [Tester l'application](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)  
+- **🌐 Démo Live** : [Tester l'application](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)  
 - **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
 
 #### 🛠️ Stack
@@ -37,17 +37,17 @@ Seeking a challenging internship to contribute to development and deployment of 
 
 ---
 
-### 🫀 Cardiovascular Disease Prediction System (2025)
+### 🫀 Système de Prédiction Cardiovasculaire
 
-**Predictive models for cardiovascular disease with interactive visualization.**
+**Modèles prédictifs pour maladies cardiovasculaires avec visualisation interactive.**
 
 #### 🎯 Fonctionnalités
-- Implemented predictive models using Logistic Regression, KNN, Decision Tree, Random Forest, PCA, and K-Means  
-- Deployed an interactive Streamlit application for visualization and user interaction  
-- Evaluated model performance and applied feature analysis for improved predictions  
+- Implémentation de modèles : Régression Logistique, KNN, Arbre de Décision, Random Forest, PCA, K-Means  
+- Application Streamlit interactive pour visualisation et interaction utilisateur  
+- Évaluation des performances et analyse de features pour prédictions améliorées  
 
 #### 🔗 Liens
-- **🌐 Live Demo** : [Voir l'application](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)  
+- **🌐 Démo Live** : [Voir l'application](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)  
 - **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/cardiovascular-disease-prediction)
 
 #### 🛠️ Stack
@@ -55,7 +55,7 @@ Seeking a challenging internship to contribute to development and deployment of 
 
 ---
 
-### 🚢 Classification de Navires sur Images Aériennes (2025)
+### 🚢 Classification de Navires sur Images Aériennes
 
 **Classification d'images aériennes de navires avec des CNN.**
 
@@ -72,7 +72,7 @@ Seeking a challenging internship to contribute to development and deployment of 
 
 ---
 
-### 📦 MLOps – Déploiement de Modèles IA (2025)
+### 📦 MLOps – Déploiement de Modèles IA
 
 **Pipeline MLOps complet avec DVC, MLflow et PyTorch pour classification binaire.**
 
@@ -90,14 +90,14 @@ Seeking a challenging internship to contribute to development and deployment of 
 
 ---
 
-### 🤖 Camera-LiDAR Fusion for Enriched 3D Perception (2025)
+### 🤖 Fusion Camera-LiDAR pour Perception 3D
 
-**Multi-sensor fusion pipeline for autonomous vehicles.**
+**Pipeline de fusion multi-capteurs pour véhicules autonomes.**
 
 #### 🎯 Fonctionnalités
-- Designed and validated a multi-sensor fusion pipeline combining camera and LiDAR data  
-- Used YOLOv8 for 2D object detection and projected 3D LiDAR points onto image planes  
-- Achieved enriched 3D perception for robust detection of vehicles and pedestrians  
+- Conception et validation pipeline fusion multi-capteurs combinant caméra et LiDAR  
+- Utilisation YOLOv8 pour détection 2D et projection points 3D LiDAR sur plans images  
+- Perception 3D enrichie pour détection robuste véhicules et piétons  
 
 #### 🔗 Liens
 - **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/TP4)
@@ -110,65 +110,89 @@ Seeking a challenging internship to contribute to development and deployment of 
 ## 💻 Compétences Techniques
 
 ### 🤖 Intelligence Artificielle & Machine Learning
+<details>
+<summary>📖 Voir les compétences IA/ML</summary>
+
 - **Frameworks** : TensorFlow, PyTorch, Keras, Scikit-learn  
 - **MLOps** : MLflow, DVC, Docker, CI/CD  
 - **Deep Learning** : CNN, RNN, Transformers, Transfer Learning  
 - **AutoML** : Automated Feature Engineering, Hyperparameter Optimization  
+- **Algorithmes** : Machine Learning, Data Mining, Predictive Modeling
+
+</details>
 
 ### 📊 Data Science & Analyse
+<details>
+<summary>📖 Voir les compétences Data Science</summary>
+
 - **Langages** : Python, R, SQL, NoSQL, MongoDB  
 - **Visualisation** : Seaborn, Matplotlib, Plotly  
-- **Statistiques** : ANOVA, Statistical Tests, Correspondence Analysis (CA)  
+- **Statistiques** : ANOVA, Tests Statistiques, Analyse Correspondance (AC)  
 - **Big Data** : Spark, Hadoop, Cloud Platforms  
+- **Économétrie** : Régressions, Analyse de données
+
+</details>
 
 ### 🔧 Ingénierie & Déploiement
+<details>
+<summary>�� Voir les compétences Ingénierie</summary>
+
 - **Cloud** : AWS, Azure, GCP, Streamlit Cloud  
 - **Bases de données** : PostgreSQL, MongoDB, Redis  
 - **API** : REST, GraphQL, FastAPI  
 - **DevOps** : Git, Docker, Kubernetes, CI/CD  
+- **Déploiement** : Mise en production, monitoring
+
+</details>
 
 ### 📈 Domaines d'Expertise
-- **Machine Learning** : Predictive Modeling, Feature Engineering, Data Mining  
-- **Deep Learning** : Computer Vision, NLP, Multi-sensor Fusion  
-- **Statistiques** : Regressions, Econometrics, Analysis and communication of results  
+<details>
+<summary>📖 Voir les domaines d'expertise</summary>
+
+- **Machine Learning** : Feature Engineering, Data Mining, Modélisation Prédictive  
+- **Deep Learning** : Vision par Ordinateur, NLP, Fusion Multi-capteurs  
+- **Statistiques** : Tests d'hypothèses, Régressions, Économétrie  
+- **Communication** : Analyse et communication des résultats
+
+</details>
 
 ---
 
 ## 🎓 Formation Académique
 
-### 🎓 Master's - Data Science & Artificial Intelligence
-**Mundiapolis University of Casablanca** | 2024 – Present  
-*Specialization : Data Science & AI*
+### 🎓 Master Data Science & Intelligence Artificielle
+**Université Mundiapolis de Casablanca** | 2024 – Présent  
+*Spécialisation : Data Science & IA*
 
-### 📈 Bachelor's Degree - Applied Mathematics
-**Institut Supérieur de Management (ISM)** | Dakar, Senegal | 09/2021 – 06/2024  
-*Focus : Applied Mathematics*
+### 📈 Licence Mathématiques Appliquées
+**Institut Supérieur de Management (ISM)** | Dakar, Sénégal | 09/2021 – 06/2024  
+*Focus : Mathématiques Appliquées*
 
-### 🎓 Scientific Baccalaureate - Serie S2
-**Institution Marc PERROT** | Dakar, Senegal | 10/2020 – 06/2021  
-*Scientific High School Diploma*
+### 🎓 Baccalauréat Scientifique Série S2
+**Institution Marc PERROT** | Dakar, Sénégal | 10/2020 – 06/2021  
+*Baccalauréat Scientifique*
 
 ---
 
 ## 💼 Expérience Professionnelle
 
-### 🏛️ Volunteer – Financial Management (Treasury)
-**Empire des Enfants** | Senegal | 01/2024 – Present  
-- Supported treasury management activities, including expense tracking and budget monitoring  
-- Assisted in organizing financial records and ensuring data accuracy  
-- Contributed to improving financial transparency and operational efficiency  
-- Collaborated with team members to support financial decision-making  
+### 🏛️ Bénévole – Gestion Financière (Trésorerie)
+**Empire des Enfants** | Sénégal | 01/2024 – Présent  
+- Soutien activités gestion trésorerie, suivi dépenses et monitoring budget  
+- Assistance organisation enregistrements financiers et garantie précision données  
+- Contribution amélioration transparence financière et efficacité opérationnelle  
+- Collaboration équipe membres pour soutien décisions financières  
 
 ---
 
 ## 🌍 Langues
 
-- **🇫🇷 Français** : Langue maternelle (Native)  
-- **🇺🇸 Anglais** : B1/B2 (intermediate – technical reading and writing)  
+- **🇫🇷 Français** : Langue maternelle  
+- **🇺�� Anglais** : B1/B2 (intermédiaire – lecture et écriture technique)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistiques GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_title=true)
 
@@ -178,18 +202,13 @@ Seeking a challenging internship to contribute to development and deployment of 
 
 **N'hésitez pas à me contacter pour discuter de collaborations !**
 
-- 📧 **Email** : [s.sall@mundiapolis.ma](mailto:s.sall@mundiapolis.ma)  
-- 📱 **Téléphone** : +212 665 682734  
-- 🔗 **GitHub** : [github.com/KalsoumDS](https://github.com/KalsoumDS)  
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/📧_Email-oumoukaltoumsall@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:oumoukaltoumsall@gmail.com)
+[![Téléphone](https://img.shields.io/badge/📱_Téléphone-+212_665_682734-green?style=for-the-badge&logo=whatsapp)](tel:+212665682734)
+[![GitHub](https://img.shields.io/badge/🔗_GitHub-KalsoumDS-black?style=for-the-badge&logo=github)](https://github.com/KalsoumDS)
 
-## 📋 Références
-
-**Samar MOUCHAWRAB**  
-Vice President Academic Affairs • Mundiapolis University  
-📧 s.mouchawrab@mundiapolis.ma  
-📱 +212 5 290 13 712  
+</div>
 
 ---
 
