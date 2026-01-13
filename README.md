@@ -201,7 +201,6 @@
 </table>
 
 [![Voir sur GitHub](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Démo Live](https://img.shields.io/badge/🚀_Démo_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)
 
 ---
 
