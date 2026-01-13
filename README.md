@@ -1,11 +1,16 @@
+<div align="center">
+
 # 👋 OUMOU KALTOUM SALL
 
-## Data Scientist · Data Science & Intelligence Artificielle
+## 🚀 Data Scientist · Intelligence Artificielle
 
-📍 **Casablanca, 20200, Maroc**  
-📧 **oumoukaltoumsall@gmail.com**  
-📱 **+212 665 682734**  
-🔗 **GitHub** : [github.com/KalsoumDS](https://github.com/KalsoumDS)
+---
+
+### 📧 Contact
+[![Email](https://img.shields.io/badge/oumoukaltoumsall@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
+
+### 🔗 GitHub
+[![GitHub](https://img.shields.io/badge/KalsoumDS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS)
 
 ---
 
@@ -15,15 +20,20 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 
 ---
 
+</div>
+
 ## 🚀 Projets Phares
 
-### 🤖 TabularAI – Système AutoML pour Données Tabulaires
+### 🤖 TabularAI – Système AutoML
 
 **Système AutoML de bout en bout pour datasets tabulaires avec interface interactive.**
 
-#### 🔗 Liens
-- **🌐 Démo Live** : [Tester l'application](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)  
-- **�� Code Source** : [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+<div align="center">
+
+[![Démo Live](https://img.shields.io/badge/🌐_Démo_Live-Streamlit-red?style=for-the-badge&logo=streamlit)](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
+[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+
+</div>
 
 #### 🛠️ Stack
 `Python` `Streamlit` `scikit-learn` `pandas` `plotly` `Ollama` `MLflow`
@@ -34,9 +44,12 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 
 **Modèles prédictifs pour maladies cardiovasculaires avec visualisation interactive.**
 
-#### 🔗 Liens
-- **🌐 Démo Live** : [Voir l'application](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)  
-- **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+<div align="center">
+
+[![Démo Live](https://img.shields.io/badge/🌐_Démo_Live-Streamlit-red?style=for-the-badge&logo=streamlit)](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)
+[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+
+</div>
 
 #### 🛠️ Stack
 `Python` `scikit-learn` `pandas` `Streamlit` `matplotlib` `seaborn`
@@ -47,8 +60,11 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 
 **Classification d'images aériennes de navires avec des CNN.**
 
-#### 🔗 Liens
-- **💻 Code Source** : [Repo GitHub](https://github.com/KalsoumDS/DeepLearning-Project-1)
+<div align="center">
+
+[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/KalsoumDS/DeepLearning-Project-1)
+
+</div>
 
 #### 🛠️ Stack
 `Python` `TensorFlow` `Keras` `OpenCV` `scikit-learn` `matplotlib`
@@ -59,20 +75,26 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 
 **Pipeline MLOps complet avec DVC, MLflow et PyTorch pour classification binaire.**
 
-#### 🔗 Liens
-- **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/automl-pipeline)
+<div align="center">
 
-#### 🛠️ Stack
+[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/automl-pipeline)
+
+</div>
+
+#### ��️ Stack
 `Python` `PyTorch` `scikit-learn` `MLflow` `DVC` `Git`
 
 ---
 
-### �� Fusion Camera-LiDAR pour Perception 3D
+### 🤖 Fusion Camera-LiDAR pour Perception 3D
 
 **Pipeline de fusion multi-capteurs pour véhicules autonomes.**
 
-#### 🔗 Liens
-- **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/TP4)
+<div align="center">
+
+[![Code Source](https://img.shields.io/badge/��_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/TP4)
+
+</div>
 
 #### 🛠️ Stack
 `Python` `OpenCV` `PCL` `NumPy` `Matplotlib` `Jupyter`
@@ -80,6 +102,8 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 ---
 
 ## 💻 Compétences Techniques
+
+<div align="center">
 
 ### 🤖 Intelligence Artificielle & Machine Learning
 <details>
@@ -114,9 +138,13 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 
 </details>
 
+</div>
+
 ---
 
 ## 🎓 Formation Académique
+
+<div align="center">
 
 ### 🎓 Master Data Science & Intelligence Artificielle
 **Université Mundiapolis de Casablanca** | 2024 – Présent
@@ -127,9 +155,13 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 ### 🎓 Baccalauréat Scientifique Série S2
 **Institution Marc PERROT** | Dakar, Sénégal | 10/2020 – 06/2021
 
+</div>
+
 ---
 
 ## 💼 Expérience Professionnelle
+
+<div align="center">
 
 ### 🏛️ Bénévole – Gestion Financière (Trésorerie)
 **Association Refocus Child - Empire des Enfants** | Sénégal | 01/2024 – 07/2024
@@ -139,36 +171,41 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 - Contribution à l'amélioration de la transparence financière et de l'efficacité opérationnelle
 - Collaboration avec les membres de l'équipe pour le soutien aux décisions financières
 
+</div>
+
 ---
 
 ## 🌍 Langues
 
+<div align="center">
+
 - **🇫🇷 Français** : Langue maternelle  
 - **🇺🇸 Anglais** : B1/B2 (intermédiaire – lecture et écriture technique)
+
+</div>
 
 ---
 
 ## 📊 Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_title=true)
-
----
-
-## 📧 Contact
-
-**N'hésitez pas à me contacter pour discuter de collaborations !**
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-oumoukaltoumsall@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:oumoukaltoumsall@gmail.com)
-[![Téléphone](https://img.shields.io/badge/📱_Téléphone-+212_665_682734-green?style=for-the-badge&logo=whatsapp)](tel:+212665682734)
-[![GitHub](https://img.shields.io/badge/🔗_GitHub-KalsoumDS-black?style=for-the-badge&logo=github)](https://github.com/KalsoumDS)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_title=true)
 
 </div>
 
 ---
 
 <div align="center">
+
+## 📧 Contact
+
+**N'hésitez pas à me contacter pour discuter de collaborations !**
+
+[![Email](https://img.shields.io/badge/📧_Email-oumoukaltoumsall@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
+[![GitHub](https://img.shields.io/badge/🔗_GitHub-KalsoumDS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS)
+
+---
 
 **🚀 Merci d'avoir visité mon portfolio !**
 
