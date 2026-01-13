@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=650&height=70&duration=4000&pause=500&lines=👋+Hello!+I'm+Oumou+Kaltoum+Sall;🚀+Data+Scientist+%26+ML+Engineer;💡+Transforming+Data+Into+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=650&height=70&duration=4000&pause=500&lines=👋+Hello!+I'm+Oumou+Kaltoum+Sall;📊+Data+Scientist;💡+Transforming+Data+Into+Intelligence" alt="Typing SVG" />
 
-### 🎯 Passionate about building intelligent solutions with Machine Learning & Deep Learning
+### 📊 Data Scientist | Passionate about building intelligent solutions with Machine Learning & Deep Learning
 
 [![GitHub followers](https://img.shields.io/github/followers/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)](https://github.com/KalsoumDS)
 [![GitHub stars](https://img.shields.io/github/stars/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)](https://github.com/KalsoumDS)
@@ -12,10 +12,15 @@
 
 ### 🚀 Quick Navigation
 
-[![About Me](https://img.shields.io/badge/📖_About_Me-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-about-me)
+<div align="center">
+
+[![About Me](https://img.shields.io/badge/👋_About_Me-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-about-me)
+[![Tech Stack](https://img.shields.io/badge/🛠️_Tech_Stack-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#️-tech-stack)
 [![Projects](https://img.shields.io/badge/🚀_Projects-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-featured-projects)
 [![Skills](https://img.shields.io/badge/🎯_Skills-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-skills)
 [![Contact](https://img.shields.io/badge/📞_Contact-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-get-in-touch)
+
+</div>
 
 ---
 
@@ -25,43 +30,79 @@
 
 <div align="center">
 
+### 📊 Data Scientist | Transforming Data Into Actionable Insights
+
 ```python
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  class DataScientist:                                     ║
-║      def __init__(self):                                  ║
-║          self.name = "Oumou Kaltoum Sall"                 ║
-║          self.role = "Data Scientist & ML Engineer"       ║
-║          self.location = "Casablanca, Morocco 🇲🇦"        ║
-║          self.education = "Master's in Data Science & AI" ║
-║          self.passion = "Building end-to-end ML systems"   ║
-║                                                           ║
-║      def work_on(self):                                   ║
-║          return [                                          ║
-║              "🤖 Machine Learning Models",                  ║
-║              "🧠 Deep Learning Applications",              ║
-║              "⚙️  MLOps Pipelines",                       ║
-║              "🔬 AutoML Systems",                         ║
-║              "👁️  Computer Vision Projects"               ║
-║          ]                                                 ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  class DataScientist:                                            ║
+║      def __init__(self):                                          ║
+║          self.name = "Oumou Kaltoum Sall"                         ║
+║          self.role = "Data Scientist"                             ║
+║          self.location = "Casablanca, Morocco 🇲🇦"                ║
+║          self.education = "Master's in Data Science & AI"         ║
+║          self.passion = "Building intelligent ML systems"          ║
+║          self.expertise = [                                        ║
+║              "📊 Data Analysis & Visualization",                   ║
+║              "🤖 Machine Learning & Deep Learning",               ║
+║              "⚙️  MLOps & Production Deployment",                  ║
+║              "🔬 AutoML & Model Optimization",                      ║
+║              "👁️  Computer Vision & NLP"                            ║
+║          ]                                                          ║
+║                                                                   ║
+║      def work_on(self):                                           ║
+║          return [                                                  ║
+║              "🔍 Exploratory Data Analysis",                       ║
+║              "📈 Statistical Modeling",                            ║
+║              "🧠 Deep Learning Models",                           ║
+║              "🚀 End-to-End ML Pipelines",                        ║
+║              "📊 Data Visualization & Storytelling"                ║
+║          ]                                                          ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Who I Am
+
+**Passionate Data Scientist** with a strong foundation in mathematics and statistics, specializing in transforming complex data into actionable insights and intelligent solutions. I love working on end-to-end projects from data collection to model deployment.
+
+**What I Do:**
+- 🔍 **Data Analysis:** Extract meaningful patterns and insights from complex datasets
+- 🤖 **Machine Learning:** Build and deploy predictive models for real-world problems
+- 📊 **Data Visualization:** Create compelling visualizations that tell data stories
+- ⚙️ **MLOps:** Design production-ready ML systems with CI/CD pipelines
+- 🚀 **Innovation:** Explore cutting-edge AI technologies and methodologies
+
+**My Approach:**
+- 📚 **Continuous Learning:** Always staying updated with latest trends in Data Science
+- 🎯 **Problem-Solving:** Focused on solving real-world business challenges
+- 🤝 **Collaboration:** Working effectively in cross-functional teams
+- 💡 **Innovation:** Bringing creative solutions to complex data problems
 
 </div>
 
 <div align="center">
 
-**Passionate Data Scientist** with expertise in building intelligent solutions from data preprocessing to deployment. Specialized in **Machine Learning**, **Deep Learning**, and **MLOps** with hands-on experience in production-ready systems.
-
 [![Portfolio Website](https://img.shields.io/badge/🌐_View_Portfolio-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS)
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-7E3ACE?style=for-the-badge&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
+[![Contact Me](https://img.shields.io/badge/📧_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
 
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💼 Technologies I Work With Daily
+
+</div>
 
 <div align="center">
 
@@ -101,6 +142,12 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+
+### 💡 My Data Science & ML Projects
+
+*Click on any project to explore the code and see it in action!*
+
+</div>
 
 ### 🤖 TabularAI - AutoML Platform
 
