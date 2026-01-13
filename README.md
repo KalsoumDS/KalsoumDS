@@ -331,108 +331,49 @@
 
 ## 🎯 Skills
 
-<div align="center">
-
 ### 🤖 Machine Learning & AI
 
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>🧠 Frameworks</strong><br><br>
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-</td>
-<td align="center" width="25%">
-<strong>🔬 Deep Learning</strong><br><br>
-[![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-[![RNN](https://img.shields.io/badge/RNN-EE4C2C?style=flat-square)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
-[![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat-square)](https://huggingface.co/transformers/)
-[![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-00CED1?style=flat-square)](https://en.wikipedia.org/wiki/Transfer_learning)
-</td>
-<td align="center" width="25%">
-<strong>⚙️ MLOps</strong><br><br>
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org/)
-[![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)](https://dvc.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-</td>
-<td align="center" width="25%">
-<strong>🔧 AutoML</strong><br><br>
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF6B6B?style=flat-square)](https://en.wikipedia.org/wiki/Feature_engineering)
-[![Hyperparameter Optimization](https://img.shields.io/badge/Hyperparameter-4ECDC4?style=flat-square)](https://en.wikipedia.org/wiki/Hyperparameter_optimization)
-[![AutoML](https://img.shields.io/badge/AutoML-95E1D3?style=flat-square)](https://en.wikipedia.org/wiki/Automated_machine_learning)
-</td>
-</tr>
-</table>
+**🧠 Frameworks:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**🔬 Deep Learning:** CNN, RNN, Transformers, Transfer Learning
+
+**⚙️ MLOps:** MLflow, DVC, Docker, CI/CD
+
+**🔧 AutoML:** Feature Engineering, Hyperparameter Optimization
+
+---
 
 ### 📊 Data Science & Analytics
 
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>💻 Languages</strong><br><br>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-</td>
-<td align="center" width="25%">
-<strong>📈 Visualization</strong><br><br>
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
-</td>
-<td align="center" width="25%">
-<strong>📊 Statistics</strong><br><br>
-[![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-FF6B6B?style=flat-square)](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
-[![Regression](https://img.shields.io/badge/Regression-4ECDC4?style=flat-square)](https://en.wikipedia.org/wiki/Regression_analysis)
-[![Econometrics](https://img.shields.io/badge/Econometrics-95E1D3?style=flat-square)](https://en.wikipedia.org/wiki/Econometrics)
-</td>
-<td align="center" width="25%">
-<strong>☁️ Big Data</strong><br><br>
-[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)](https://hadoop.apache.org/)
-[![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-</td>
-</tr>
-</table>
+**💻 Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**📈 Visualization:** Matplotlib, Seaborn, Plotly, Tableau
+
+**📊 Statistics:** Hypothesis Testing, Regression, Econometrics
+
+**☁️ Big Data:** Spark, Hadoop, Cloud Platforms
+
+---
 
 ### 🔧 Software Engineering
 
-<table>
-<tr>
-<td align="center" width="25%">
-<strong>☁️ Cloud</strong><br><br>
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/cloud)
-</td>
-<td align="center" width="25%">
-<strong>🗄️ Databases</strong><br><br>
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-</td>
-<td align="center" width="25%">
-<strong>🔌 APIs</strong><br><br>
-[![REST](https://img.shields.io/badge/REST-FF6B6B?style=flat-square)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-</td>
-<td align="center" width="25%">
-<strong>🛠️ DevOps</strong><br><br>
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-</td>
-</tr>
-</table>
+**☁️ Cloud:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+**🗄️ Databases:** PostgreSQL, MongoDB, Redis
+
+**🔌 APIs:** REST, GraphQL, FastAPI
+
+**🛠️ DevOps:** Git, Docker, Kubernetes
 
 ---
 
@@ -444,8 +385,6 @@
 |:---------:|:---------------:|:---------:|:---------:|
 | **Master's in Data Science & AI** | Mundiapolis University of Casablanca | 2024 - Present | 🟢 In Progress |
 | **Bachelor's in Applied Mathematics** | Higher Institute of Management (ISM) | 2021 - 2024 | ✅ Completed |
-
-[![View Certificates](https://img.shields.io/badge/📜_View_Certificates-7E3ACE?style=for-the-badge&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
 
 </div>
 
@@ -501,7 +440,6 @@
 
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumoukaltoumsall)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS)
 
 ---
