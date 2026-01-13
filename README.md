@@ -62,35 +62,7 @@
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Who I Am
-
-**Passionate Data Scientist** with a strong foundation in mathematics and statistics, specializing in transforming complex data into actionable insights and intelligent solutions. I love working on end-to-end projects from data collection to model deployment.
-
-**What I Do:**
-- 🔍 **Data Analysis:** Extract meaningful patterns and insights from complex datasets
-- 🤖 **Machine Learning:** Build and deploy predictive models for real-world problems
-- 📊 **Data Visualization:** Create compelling visualizations that tell data stories
-- ⚙️ **MLOps:** Design production-ready ML systems with CI/CD pipelines
-- 🚀 **Innovation:** Explore cutting-edge AI technologies and methodologies
-
-**My Approach:**
-- 📚 **Continuous Learning:** Always staying updated with latest trends in Data Science
-- 🎯 **Problem-Solving:** Focused on solving real-world business challenges
-- 🤝 **Collaboration:** Working effectively in cross-functional teams
-- 💡 **Innovation:** Bringing creative solutions to complex data problems
-
-</div>
-
-<div align="center">
-
-[![Portfolio Website](https://img.shields.io/badge/🌐_View_Portfolio-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS)
-[![Contact Me](https://img.shields.io/badge/📧_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
+**Passionate Data Scientist** specializing in transforming complex data into actionable insights and intelligent solutions. I build end-to-end ML systems from data preprocessing to production deployment.
 
 </div>
 
@@ -473,8 +445,6 @@
 </tr>
 </table>
 
-[![Learn More](https://img.shields.io/badge/📖_Learn_More-7E3ACE?style=for-the-badge&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
-
 </div>
 
 ---
@@ -483,19 +453,8 @@
 
 <div align="center">
 
-### Let's Connect! 🚀
-
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS)
-
----
-
-### 💬 Let's Collaborate!
-
-[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-7E3ACE?style=for-the-badge&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
-[![Collaborate](https://img.shields.io/badge/🤝_Collaborate-7E3ACE?style=for-the-badge&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
-[![Ask Me Anything](https://img.shields.io/badge/❓_Ask_Me_Anything-7E3ACE?style=for-the-badge&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
 
 </div>
 
