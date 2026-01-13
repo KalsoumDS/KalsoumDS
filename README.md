@@ -11,9 +11,7 @@
 
 ## 👩‍💻 À propos
 
-Étudiante Master en Data Science & Intelligence Artificielle, dynamique et organisée, avec une solide formation en Mathématiques Appliquées et des compétences analytiques avancées. Expérimentée dans le développement de projets basés sur les données et l'analyse, appliquant le machine learning et les compétences techniques pour résoudre des problèmes réels.
-
-Recherche un stage stimulant pour contribuer au développement et au déploiement de solutions numériques innovantes.
+Data Scientist passionnée par l'analyse de données et l'intelligence artificielle. Spécialisée dans le développement de solutions basées sur les données : modèles prédictifs, analyses statistiques et applications interactives.
 
 ---
 
@@ -23,14 +21,9 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 
 **Système AutoML de bout en bout pour datasets tabulaires avec interface interactive.**
 
-#### 🎯 Fonctionnalités
-- Prétraitement automatisé, sélection de modèles, optimisation des hyperparamètres et évaluation  
-- Interface Streamlit interactive pour utilisateurs non techniques  
-- Intégration LLM local (Ollama – Llama2) pour explications en langage naturel  
-
 #### 🔗 Liens
 - **🌐 Démo Live** : [Tester l'application](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)  
-- **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+- **�� Code Source** : [Repo GitHub](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
 
 #### 🛠️ Stack
 `Python` `Streamlit` `scikit-learn` `pandas` `plotly` `Ollama` `MLflow`
@@ -40,11 +33,6 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 ### 🫀 Système de Prédiction Cardiovasculaire
 
 **Modèles prédictifs pour maladies cardiovasculaires avec visualisation interactive.**
-
-#### 🎯 Fonctionnalités
-- Implémentation de modèles : Régression Logistique, KNN, Arbre de Décision, Random Forest, PCA, K-Means  
-- Application Streamlit interactive pour visualisation et interaction utilisateur  
-- Évaluation des performances et analyse de features pour prédictions améliorées  
 
 #### 🔗 Liens
 - **🌐 Démo Live** : [Voir l'application](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)  
@@ -59,11 +47,6 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 
 **Classification d'images aériennes de navires avec des CNN.**
 
-#### 🎯 Fonctionnalités
-- Architectures testées : MobileNetV2, EfficientNet, ConvNeXt, InternImage  
-- Prétraitement : normalisation, augmentation de données  
-- Comparaison des performances et optimisation des hyperparamètres  
-
 #### 🔗 Liens
 - **💻 Code Source** : [Repo GitHub](https://github.com/KalsoumDS/DeepLearning-Project-1)
 
@@ -76,12 +59,6 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 
 **Pipeline MLOps complet avec DVC, MLflow et PyTorch pour classification binaire.**
 
-#### 🎯 Fonctionnalités
-- Prétraitement automatique (imputation, encodage, normalisation)  
-- Entraînement réseau de neurones (ANN) avec tracking MLflow  
-- Gestion des données avec DVC (versioning)  
-- Évaluation et logging des métriques  
-
 #### 🔗 Liens
 - **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/automl-pipeline)
 
@@ -90,14 +67,9 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 
 ---
 
-### 🤖 Fusion Camera-LiDAR pour Perception 3D
+### �� Fusion Camera-LiDAR pour Perception 3D
 
 **Pipeline de fusion multi-capteurs pour véhicules autonomes.**
-
-#### 🎯 Fonctionnalités
-- Conception et validation pipeline fusion multi-capteurs combinant caméra et LiDAR  
-- Utilisation YOLOv8 pour détection 2D et projection points 3D LiDAR sur plans images  
-- Perception 3D enrichie pour détection robuste véhicules et piétons  
 
 #### 🔗 Liens
 - **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/TP4)
@@ -116,8 +88,7 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 - **Frameworks** : TensorFlow, PyTorch, Keras, Scikit-learn  
 - **MLOps** : MLflow, DVC, Docker, CI/CD  
 - **Deep Learning** : CNN, RNN, Transformers, Transfer Learning  
-- **AutoML** : Automated Feature Engineering, Hyperparameter Optimization  
-- **Algorithmes** : Machine Learning, Data Mining, Predictive Modeling
+- **AutoML** : Automated Feature Engineering, Hyperparameter Optimization
 
 </details>
 
@@ -128,31 +99,18 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 - **Langages** : Python, R, SQL, NoSQL, MongoDB  
 - **Visualisation** : Seaborn, Matplotlib, Plotly  
 - **Statistiques** : ANOVA, Tests Statistiques, Analyse Correspondance (AC)  
-- **Big Data** : Spark, Hadoop, Cloud Platforms  
-- **Économétrie** : Régressions, Analyse de données
+- **Big Data** : Spark, Hadoop, Cloud Platforms
 
 </details>
 
 ### 🔧 Ingénierie & Déploiement
 <details>
-<summary>�� Voir les compétences Ingénierie</summary>
+<summary>📖 Voir les compétences Ingénierie</summary>
 
 - **Cloud** : AWS, Azure, GCP, Streamlit Cloud  
 - **Bases de données** : PostgreSQL, MongoDB, Redis  
 - **API** : REST, GraphQL, FastAPI  
-- **DevOps** : Git, Docker, Kubernetes, CI/CD  
-- **Déploiement** : Mise en production, monitoring
-
-</details>
-
-### 📈 Domaines d'Expertise
-<details>
-<summary>📖 Voir les domaines d'expertise</summary>
-
-- **Machine Learning** : Feature Engineering, Data Mining, Modélisation Prédictive  
-- **Deep Learning** : Vision par Ordinateur, NLP, Fusion Multi-capteurs  
-- **Statistiques** : Tests d'hypothèses, Régressions, Économétrie  
-- **Communication** : Analyse et communication des résultats
+- **DevOps** : Git, Docker, Kubernetes, CI/CD
 
 </details>
 
@@ -161,34 +119,32 @@ Recherche un stage stimulant pour contribuer au développement et au déploiemen
 ## 🎓 Formation Académique
 
 ### 🎓 Master Data Science & Intelligence Artificielle
-**Université Mundiapolis de Casablanca** | 2024 – Présent  
-*Spécialisation : Data Science & IA*
+**Université Mundiapolis de Casablanca** | 2024 – Présent
 
 ### 📈 Licence Mathématiques Appliquées
-**Institut Supérieur de Management (ISM)** | Dakar, Sénégal | 09/2021 – 06/2024  
-*Focus : Mathématiques Appliquées*
+**Institut Supérieur de Management (ISM)** | Dakar, Sénégal | 09/2021 – 06/2024
 
 ### 🎓 Baccalauréat Scientifique Série S2
-**Institution Marc PERROT** | Dakar, Sénégal | 10/2020 – 06/2021  
-*Baccalauréat Scientifique*
+**Institution Marc PERROT** | Dakar, Sénégal | 10/2020 – 06/2021
 
 ---
 
 ## 💼 Expérience Professionnelle
 
 ### 🏛️ Bénévole – Gestion Financière (Trésorerie)
-**Empire des Enfants** | Sénégal | 01/2024 – Présent  
-- Soutien activités gestion trésorerie, suivi dépenses et monitoring budget  
-- Assistance organisation enregistrements financiers et garantie précision données  
-- Contribution amélioration transparence financière et efficacité opérationnelle  
-- Collaboration équipe membres pour soutien décisions financières  
+**Association Refocus Child - Empire des Enfants** | Sénégal | 01/2024 – 07/2024
+
+- Soutien aux activités de gestion de trésorerie, suivi des dépenses et monitoring budgétaire
+- Assistance à l'organisation des enregistrements financiers et garantie de la précision des données
+- Contribution à l'amélioration de la transparence financière et de l'efficacité opérationnelle
+- Collaboration avec les membres de l'équipe pour le soutien aux décisions financières
 
 ---
 
 ## 🌍 Langues
 
 - **🇫🇷 Français** : Langue maternelle  
-- **🇺�� Anglais** : B1/B2 (intermédiaire – lecture et écriture technique)
+- **🇺🇸 Anglais** : B1/B2 (intermédiaire – lecture et écriture technique)
 
 ---
 
