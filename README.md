@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=650&height=70&duration=4000&pause=500&lines=👋+Hello!+I'm+Oumou+Kaltoum+Sall;📊+Data+Scientist;💡+Transforming+Data+Into+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=650&height=70&duration=4000&pause=500&lines=👋+Bonjour!+Je+suis+Oumou+Kaltoum+Sall;📊+Data+Scientist;💡+Transformer+les+Données+en+Intelligence" alt="Typing SVG" />
 
-### 📊 Data Scientist | Passionate about building intelligent solutions with Machine Learning & Deep Learning
+### 📊 Data Scientist | Passionnée par la création de solutions intelligentes avec le Machine Learning & Deep Learning
 
 [![GitHub followers](https://img.shields.io/github/followers/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)](https://github.com/KalsoumDS)
 [![GitHub stars](https://img.shields.io/github/stars/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)](https://github.com/KalsoumDS)
-[![Profile Views](https://komarev.com/ghpvc/?username=KalsoumDS&color=7E3ACE&style=for-the-badge&label=Profile+Views)](https://github.com/KalsoumDS)
+[![Profile Views](https://komarev.com/ghpvc/?username=KalsoumDS&color=7E3ACE&style=for-the-badge&label=Vues+du+Profil)](https://github.com/KalsoumDS)
 
 ---
 
-### 🚀 Quick Navigation
+### 🚀 Navigation Rapide
 
 <div align="center">
 
-[![About Me](https://img.shields.io/badge/👋_About_Me-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-about-me)
+[![À Propos](https://img.shields.io/badge/👋_À_Propos-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-à-propos)
 [![Tech Stack](https://img.shields.io/badge/🛠️_Tech_Stack-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#️-tech-stack)
-[![Projects](https://img.shields.io/badge/🚀_Projects-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-featured-projects)
-[![Skills](https://img.shields.io/badge/🎯_Skills-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-skills)
-[![Contact](https://img.shields.io/badge/📞_Contact-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-get-in-touch)
+[![Projets](https://img.shields.io/badge/🚀_Projets-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-projets-en-vedette)
+[![Compétences](https://img.shields.io/badge/🎯_Compétences-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-compétences)
+[![Contact](https://img.shields.io/badge/📞_Contact-7E3ACE?style=for-the-badge&logoColor=white)](https://github.com/KalsoumDS#-contact)
 
 </div>
 
@@ -26,43 +26,45 @@
 
 </div>
 
-## 👋 About Me
+## 👋 À Propos
 
 <div align="center">
 
-### 📊 Data Scientist | Transforming Data Into Actionable Insights
+### 📊 Data Scientist | Transformer les Données en Insights Actionnables
 
 ```python
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║  class DataScientist:                                            ║
 ║      def __init__(self):                                          ║
-║          self.name = "Oumou Kaltoum Sall"                         ║
+║          self.nom = "Oumou Kaltoum Sall"                         ║
 ║          self.role = "Data Scientist"                             ║
-║          self.location = "Casablanca, Morocco 🇲🇦"                ║
-║          self.education = "Master's in Data Science & AI"         ║
-║          self.passion = "Building intelligent ML systems"          ║
+║          self.localisation = "Casablanca, Maroc 🇲🇦"              ║
+║          self.formation = "Master en Data Science & IA"          ║
+║          self.passion = "Construire des systèmes ML intelligents" ║
 ║          self.expertise = [                                        ║
-║              "📊 Data Analysis & Visualization",                   ║
-║              "🤖 Machine Learning & Deep Learning",               ║
-║              "⚙️  MLOps & Production Deployment",                  ║
-║              "🔬 AutoML & Model Optimization",                      ║
-║              "👁️  Computer Vision & NLP"                            ║
+║              "📊 Analyse & Visualisation de Données",             ║
+║              "🤖 Machine Learning & Deep Learning",              ║
+║              "⚙️  MLOps & Déploiement en Production",             ║
+║              "🔬 AutoML & Optimisation de Modèles",               ║
+║              "👁️  Vision par Ordinateur & NLP"                     ║
 ║          ]                                                          ║
 ║                                                                   ║
-║      def work_on(self):                                           ║
+║      def travailler_sur(self):                                   ║
 ║          return [                                                  ║
-║              "🔍 Exploratory Data Analysis",                       ║
-║              "📈 Statistical Modeling",                            ║
-║              "🧠 Deep Learning Models",                           ║
-║              "🚀 End-to-End ML Pipelines",                        ║
-║              "📊 Data Visualization & Storytelling"                ║
+║              "🔍 Analyse Exploratoire des Données",               ║
+║              "📈 Modélisation Statistique",                      ║
+║              "🧠 Modèles de Deep Learning",                       ║
+║              "🚀 Pipelines ML End-to-End",                        ║
+║              "📊 Visualisation & Storytelling de Données"        ║
 ║          ]                                                          ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-**Passionate Data Scientist** specializing in transforming complex data into actionable insights and intelligent solutions. I build end-to-end ML systems from data preprocessing to production deployment.
+**Data Scientist passionnée** spécialisée dans la transformation de données complexes en insights actionnables et solutions intelligentes. Je construis des systèmes ML de bout en bout, du prétraitement des données au déploiement en production.
+
+> *"Les données sont le nouveau pétrole, mais l'analyse est le raffinage qui crée la valeur."*
 
 </div>
 
@@ -72,20 +74,20 @@
 
 <div align="center">
 
-### 💼 Technologies I Work With Daily
+### 💼 Technologies que j'utilise quotidiennement
 
 </div>
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Langages de Programmation
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Intelligence Artificielle
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -100,7 +102,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-### 🛠️ Tools & Frameworks
+### 🛠️ Outils & Frameworks
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -111,70 +113,70 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projets en Vedette
 
 <div align="center">
 
-### 💡 My Data Science & ML Projects
+### 💡 Mes Projets de Data Science & Machine Learning
 
-*Click on any project to explore the code and see it in action!*
+*Cliquez sur n'importe quel projet pour explorer le code et le voir en action !*
 
 </div>
 
-### 🤖 TabularAI - AutoML Platform
+### 🤖 TabularAI - Plateforme AutoML
 
-[![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-**Automated Machine Learning system for tabular data with interactive interface and LLM explanations.**
+**Système de Machine Learning automatisé pour données tabulaires avec interface interactive et explications LLM.**
 
 <table>
 <tr>
 <td>
 
-**🔧 Tech Stack**
+**🔧 Stack Technique**
 - Python, Streamlit
 - Scikit-learn
-- LLM Integration
+- Intégration LLM
 
 </td>
 <td>
 
-**🎯 Features**
-- Automated feature engineering
-- Model selection
-- Hyperparameter optimization
+**🎯 Fonctionnalités**
+- Feature engineering automatisé
+- Sélection de modèles
+- Optimisation d'hyperparamètres
 
 </td>
 <td>
 
 **📊 Impact**
-- Interactive ML pipeline
-- Natural language explanations
+- Pipeline ML interactif
+- Explications en langage naturel
 
 </td>
 </tr>
 </table>
 
-[![View on GitHub](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
+[![Voir sur GitHub](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Démo Live](https://img.shields.io/badge/🚀_Démo_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
 
 ---
 
-### 🫀 Cardiovascular Disease Prediction
+### 🫀 Prédiction de Maladies Cardiovasculaires
 
-[![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-**Early detection system for cardiovascular diseases using multiple ML algorithms.**
+**Système de détection précoce des maladies cardiovasculaires utilisant plusieurs algorithmes ML.**
 
 <table>
 <tr>
 <td>
 
-**🔧 Tech Stack**
+**🔧 Stack Technique**
 - Python, Scikit-learn
 - Streamlit, Pandas
 - NumPy, Matplotlib
@@ -182,81 +184,81 @@
 </td>
 <td>
 
-**🎯 Features**
-- Multiple ML models comparison
-- Interactive predictions
-- Data visualization
+**🎯 Fonctionnalités**
+- Comparaison de plusieurs modèles ML
+- Prédictions interactives
+- Visualisation de données
 
 </td>
 <td>
 
 **📊 Impact**
-- Healthcare decision support
-- Early disease detection
+- Support décisionnel en santé
+- Détection précoce de maladies
 
 </td>
 </tr>
 </table>
 
-[![View on GitHub](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)
+[![Voir sur GitHub](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Démo Live](https://img.shields.io/badge/🚀_Démo_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)
 
 ---
 
-### 🚢 Ship Classification - Satellite Images
+### 🚢 Classification de Navires - Images Satellites
 
-[![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/KalsoumDS/DeepLearning-Project-1)
+[![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/KalsoumDS/DeepLearning-Project-1)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Computer Vision](https://img.shields.io/badge/CV-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
-**Advanced computer vision system for automated ship detection on aerial satellite images.**
+**Système avancé de vision par ordinateur pour la détection automatisée de navires sur images satellites aériennes.**
 
 <table>
 <tr>
 <td>
 
-**🔧 Tech Stack**
+**🔧 Stack Technique**
 - Python, PyTorch
-- CNN, Computer Vision
+- CNN, Vision par Ordinateur
 - Transfer Learning
 
 </td>
 <td>
 
-**🎯 Features**
-- Image classification
+**🎯 Fonctionnalités**
+- Classification d'images
 - Transfer learning
-- Model deployment
+- Déploiement de modèles
 
 </td>
 <td>
 
 **📊 Impact**
-- Automated satellite analysis
-- Real-time detection
+- Analyse satellitaire automatisée
+- Détection en temps réel
 
 </td>
 </tr>
 </table>
 
-[![View on GitHub](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS/DeepLearning-Project-1)
-[![View Details](https://img.shields.io/badge/📖_View_Details-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/KalsoumDS/DeepLearning-Project-1)
+[![Voir sur GitHub](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS/DeepLearning-Project-1)
+[![Voir Détails](https://img.shields.io/badge/📖_Voir_Détails-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/KalsoumDS/DeepLearning-Project-1)
 
 ---
 
-### 📦 MLOps Pipeline
+### 📦 Pipeline MLOps
 
-[![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/kalsoumds/automl-pipeline)
+[![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/kalsoumds/automl-pipeline)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-**Production-ready MLOps infrastructure for model deployment with complete CI/CD pipeline.**
+**Infrastructure MLOps prête pour la production pour le déploiement de modèles avec pipeline CI/CD complet.**
 
 <table>
 <tr>
 <td>
 
-**🔧 Tech Stack**
+**🔧 Stack Technique**
 - Python, MLflow
 - DVC, Docker
 - CI/CD, GitHub Actions
@@ -264,93 +266,93 @@
 </td>
 <td>
 
-**🎯 Features**
-- Model versioning
-- Experiment tracking
-- Automated deployment
+**🎯 Fonctionnalités**
+- Versioning de modèles
+- Suivi d'expériences
+- Déploiement automatisé
 
 </td>
 <td>
 
 **📊 Impact**
-- Scalable ML infrastructure
-- Production-ready systems
+- Infrastructure ML scalable
+- Systèmes prêts pour la production
 
 </td>
 </tr>
 </table>
 
-[![View on GitHub](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/automl-pipeline)
-[![View Details](https://img.shields.io/badge/📖_View_Details-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/kalsoumds/automl-pipeline)
+[![Voir sur GitHub](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/automl-pipeline)
+[![Voir Détails](https://img.shields.io/badge/📖_Voir_Détails-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/kalsoumds/automl-pipeline)
 
 ---
 
-### 🤖 Camera-LiDAR Fusion
+### 🤖 Fusion Camera-LiDAR
 
-[![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/kalsoumds/TP4)
+[![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/kalsoumds/TP4)
 [![Computer Vision](https://img.shields.io/badge/CV-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![3D Processing](https://img.shields.io/badge/3D-PointCloud-00D9FF?style=for-the-badge)](https://github.com/kalsoumds/TP4)
 
-**3D perception system for autonomous vehicles using multi-sensor fusion technology.**
+**Système de perception 3D pour véhicules autonomes utilisant la technologie de fusion multi-capteurs.**
 
 <table>
 <tr>
 <td>
 
-**🔧 Tech Stack**
-- Python, Computer Vision
-- Sensor Fusion
-- 3D Processing
+**🔧 Stack Technique**
+- Python, Vision par Ordinateur
+- Fusion de Capteurs
+- Traitement 3D
 
 </td>
 <td>
 
-**🎯 Features**
-- Multi-sensor data fusion
-- 3D object detection
-- Real-time processing
+**🎯 Fonctionnalités**
+- Fusion de données multi-capteurs
+- Détection d'objets 3D
+- Traitement en temps réel
 
 </td>
 <td>
 
 **📊 Impact**
-- Autonomous vehicle perception
-- Advanced sensor fusion
+- Perception pour véhicules autonomes
+- Fusion de capteurs avancée
 
 </td>
 </tr>
 </table>
 
-[![View on GitHub](https://img.shields.io/badge/🔗_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/TP4)
-[![View Details](https://img.shields.io/badge/📖_View_Details-00D9FF?style=for-the-badge)](https://github.com/kalsoumds/TP4)
+[![Voir sur GitHub](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/TP4)
+[![Voir Détails](https://img.shields.io/badge/📖_Voir_Détails-00D9FF?style=for-the-badge)](https://github.com/kalsoumds/TP4)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-### 📈 Statistics & Activity
+### 📈 Statistiques & Activité
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&border_radius=10)](https://github.com/KalsoumDS)
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&border_radius=10)](https://github.com/KalsoumDS)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&border_radius=10)](https://github.com/KalsoumDS)
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&border_radius=10)](https://github.com/KalsoumDS)
 
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=KalsoumDS&theme=radical&hide_border=true&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE&border_radius=10)](https://github.com/KalsoumDS)
+[![Série GitHub](https://github-readme-streak-stats.demolab.com/?user=KalsoumDS&theme=radical&hide_border=true&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE&border_radius=10)](https://github.com/KalsoumDS)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KalsoumDS&theme=radical&hide_border=true&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&area_color=7E3ACE&border_radius=10)](https://github.com/KalsoumDS)
+[![Graphique d'Activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=KalsoumDS&theme=radical&hide_border=true&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&area_color=7E3ACE&border_radius=10)](https://github.com/KalsoumDS)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=KalsoumDS&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)](https://github.com/KalsoumDS)
+[![Trophées](https://github-profile-trophy.vercel.app/?username=KalsoumDS&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)](https://github.com/KalsoumDS)
 
 </div>
 
 ---
 
-## 🎯 Skills
+## 🎯 Compétences
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Intelligence Artificielle
 
 **🧠 Frameworks:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -362,33 +364,34 @@
 
 **⚙️ MLOps:** MLflow, DVC, Docker, CI/CD
 
-**🔧 AutoML:** Feature Engineering, Hyperparameter Optimization
+**🔧 AutoML:** Feature Engineering, Optimisation d'Hyperparamètres
 
 ---
 
 ### 📊 Data Science & Analytics
 
-**💻 Languages:**
+**💻 Langages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**📈 Visualization:** Matplotlib, Seaborn, Plotly, Tableau
+**📈 Visualisation:** Matplotlib, Seaborn, Plotly, Tableau
 
-**📊 Statistics:** Hypothesis Testing, Regression, Econometrics
+**📊 Statistiques:** Tests d'Hypothèses, Régression, Économétrie
 
-**☁️ Big Data:** Spark, Hadoop, Cloud Platforms
+**☁️ Big Data:** Spark, Hadoop, Plateformes Cloud
 
 ---
 
-### 🔧 Software Engineering
+### 🔧 Ingénierie Logicielle
 
 **☁️ Cloud:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**🗄️ Databases:** PostgreSQL, MongoDB, Redis
+**🗄️ Bases de Données:** PostgreSQL, MongoDB, Redis
 
 **🔌 APIs:** REST, GraphQL, FastAPI
 
@@ -396,50 +399,50 @@
 
 ---
 
-## 🎓 Education
+## 🎓 Formation
 
 <div align="center">
 
-| 🎓 Degree | 🏛️ Institution | 📅 Period | 🏆 Status |
+| 🎓 Diplôme | 🏛️ Institution | 📅 Période | 🏆 Statut |
 |:---------:|:---------------:|:---------:|:---------:|
-| **Master's in Data Science & AI** | Mundiapolis University of Casablanca | 2024 - Present | 🟢 In Progress |
-| **Bachelor's in Applied Mathematics** | Higher Institute of Management (ISM) | 2021 - 2024 | ✅ Completed |
+| **Master en Data Science & IA** | Université Mundiapolis de Casablanca | 2024 - Présent | 🟢 En Cours |
+| **Licence en Mathématiques Appliquées** | Institut Supérieur de Management (ISM) | 2021 - 2024 | ✅ Terminé |
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Expérience
 
 <div align="center">
 
-### 🏛️ Financial Management Volunteer
-**Association Refocus Child** | 🇸🇳 Senegal | 2024
+### 🏛️ Bénévole en Gestion Financière
+**Association Refocus Child** | 🇸🇳 Sénégal | 2024
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-**📊 Responsibilities**
-- Managed treasury operations
-- Budget monitoring
-- Financial reporting
+**📊 Responsabilités**
+- Gestion des opérations de trésorerie
+- Suivi budgétaire
+- Reporting financier
 
 </td>
 <td width="33%" align="center">
 
-**🎯 Achievements**
-- Implemented tracking systems
-- Improved transparency
-- Enhanced financial planning
+**🎯 Réalisations**
+- Mise en place de systèmes de suivi
+- Amélioration de la transparence
+- Amélioration de la planification financière
 
 </td>
 <td width="33%" align="center">
 
 **💡 Impact**
-- Better financial oversight
-- Streamlined processes
-- Team collaboration
+- Meilleur contrôle financier
+- Processus rationalisés
+- Collaboration d'équipe
 
 </td>
 </tr>
@@ -449,7 +452,7 @@
 
 ---
 
-## 📞 Get In Touch
+## 📞 Contact
 
 <div align="center">
 
@@ -462,44 +465,37 @@
 
 <div align="center">
 
-## ⚡ Fun Facts & Interests
+## ⚡ Faits Intéressants & Centres d'Intérêt
 
 ```diff
-+ I turn coffee ☕ into code 💻 and data 📊 into insights 🧠
-+ Passionate about open-source contributions 🌟
-+ Love building end-to-end ML systems 🚀
-+ Always learning new technologies 📚
++ Je transforme le café ☕ en code 💻 et les données 📊 en insights 🧠
++ Passionnée par les contributions open-source 🌟
++ J'adore construire des systèmes ML de bout en bout 🚀
++ Toujours en train d'apprendre de nouvelles technologies 📚
++ Fascinée par l'intersection entre les données et l'impact social 💡
 ```
 
 ---
 
-### 🌟 Star this repository if you find it interesting!
+### 🌟 N'hésitez pas à mettre une étoile à ce repository si vous le trouvez intéressant !
 
 [![GitHub stars](https://img.shields.io/github/stars/KalsoumDS/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)](https://github.com/KalsoumDS/KalsoumDS)
 
 ---
 
-*Made with ❤️ by Oumou Kaltoum Sall*
+*Fait avec ❤️ par Oumou Kaltoum Sall*
 
-![Visitor Count](https://profile-counter.glitch.me/KalsoumDS/count.svg)
-
----
-
-<div align="center">
-
-### 📊 Repository Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/KalsoumDS/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)
-![GitHub last commit](https://img.shields.io/github/last-commit/KalsoumDS/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)
-![GitHub issues](https://img.shields.io/github/issues/KalsoumDS/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)
-
-</div>
+![Compteur de Visites](https://profile-counter.glitch.me/KalsoumDS/count.svg)
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KalsoumDS/KalsoumDS/main/assets/bottom_header.svg" width="100%"/>
+### 📊 Statistiques du Repository
+
+![Taille du repo](https://img.shields.io/github/repo-size/KalsoumDS/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)
+![Dernier commit](https://img.shields.io/github/last-commit/KalsoumDS/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)
+![Issues](https://img.shields.io/github/issues/KalsoumDS/KalsoumDS?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=7E3ACE)
 
 </div>
 
