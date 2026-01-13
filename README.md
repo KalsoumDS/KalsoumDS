@@ -168,6 +168,7 @@
 
 [![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
 [![Voir sur GitHub](https://img.shields.io/badge/ud83dudd17_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Démo Live](https://img.shields.io/badge/ud83dude80_Démo_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
