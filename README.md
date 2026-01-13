@@ -1,196 +1,129 @@
 <div align="center">
 
-# 👋 OUMOU KALTOUM SALL
+<br>
 
-## 🚀 Data Scientist · Intelligence Artificielle
+![Header](https://img.shields.io/badge/Data_Scientist-Intelligence_Artificielle-blue?style=for-the-badge&logo=python&logoColor=white)
 
----
+# OUMOU KALTOUM SALL
 
-### 📧 Contact
-[![Email](https://img.shields.io/badge/oumoukaltoumsall@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
-
-### 🔗 GitHub
-[![GitHub](https://img.shields.io/badge/KalsoumDS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS)
+## 🤖 Data Scientist | Machine Learning Engineer
 
 ---
 
-## 👩‍💻 À propos
+[![Email](https://img.shields.io/badge/Email-oumoukaltoumsall@gmail.com-blue?style=flat-square&logo=gmail)](mailto:oumoukaltoumsall@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KalsoumDS-black?style=flat-square&logo=github)](https://github.com/KalsoumDS)
 
-Data Scientist passionnée par l'analyse de données et l'intelligence artificielle. Spécialisée dans le développement de solutions basées sur les données : modèles prédictifs, analyses statistiques et applications interactives.
+---
+
+### 👤 À propos
+
+Data Scientist spécialisée dans le développement de solutions intelligentes basées sur les données. 
+Passionnée par la transformation de données brutes en insights actionnables et modèles prédictifs performants.
 
 ---
 
 </div>
 
-## 🚀 Projets Phares
+## 🚀 Projets Réalisés
 
-### 🤖 TabularAI – Système AutoML
+### 🤖 **TabularAI - Plateforme AutoML**
 
-**Système AutoML de bout en bout pour datasets tabulaires avec interface interactive.**
+*Système automatisé de Machine Learning pour données tabulaires*
 
-<div align="center">
+**Technologies :** `Python` `Streamlit` `scikit-learn` `MLflow` `Ollama`
 
-[![Démo Live](https://img.shields.io/badge/🌐_Démo_Live-Streamlit-red?style=for-the-badge&logo=streamlit)](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
-[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-
-</div>
-
-#### 🛠️ Stack
-`Python` `Streamlit` `scikit-learn` `pandas` `plotly` `Ollama` `MLflow`
+[![View Project](https://img.shields.io/badge/Voir_le_Projet-GitHub-black?style=for-the-badge)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Live Demo](https://img.shields.io/badge/Démo_Live-Streamlit-red?style=for-the-badge)](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
 
 ---
 
-### 🫀 Système de Prédiction Cardiovasculaire
+### 🫀 **Prédiction Cardiovasculaire**
 
-**Modèles prédictifs pour maladies cardiovasculaires avec visualisation interactive.**
+*Système de détection précoce des maladies cardiovasculaires*
 
-<div align="center">
+**Technologies :** `Python` `scikit-learn` `pandas` `Streamlit` `matplotlib`
 
-[![Démo Live](https://img.shields.io/badge/🌐_Démo_Live-Streamlit-red?style=for-the-badge&logo=streamlit)](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)
-[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-
-</div>
-
-#### 🛠️ Stack
-`Python` `scikit-learn` `pandas` `Streamlit` `matplotlib` `seaborn`
+[![View Project](https://img.shields.io/badge/Voir_le_Projet-GitHub-black?style=for-the-badge)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Live Demo](https://img.shields.io/badge/Démo_Live-Streamlit-red?style=for-the-badge)](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)
 
 ---
 
-### 🚢 Classification de Navires sur Images Aériennes
+### 🚢 **Classification Navires Aériens**
 
-**Classification d'images aériennes de navires avec des CNN.**
+*Détection automatique de navires sur images satellites*
 
-<div align="center">
+**Technologies :** `Python` `TensorFlow` `Keras` `OpenCV` `CNN`
 
-[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/KalsoumDS/DeepLearning-Project-1)
-
-</div>
-
-#### 🛠️ Stack
-`Python` `TensorFlow` `Keras` `OpenCV` `scikit-learn` `matplotlib`
+[![View Project](https://img.shields.io/badge/Voir_le_Projet-GitHub-black?style=for-the-badge)](https://github.com/KalsoumDS/DeepLearning-Project-1)
 
 ---
 
-### 📦 MLOps – Déploiement de Modèles IA
+### 📦 **Pipeline MLOps**
 
-**Pipeline MLOps complet avec DVC, MLflow et PyTorch pour classification binaire.**
+*Infrastructure complète de déploiement de modèles IA*
 
-<div align="center">
+**Technologies :** `Python` `PyTorch` `MLflow` `DVC` `Docker`
 
-[![Code Source](https://img.shields.io/badge/💻_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/automl-pipeline)
-
-</div>
-
-#### ��️ Stack
-`Python` `PyTorch` `scikit-learn` `MLflow` `DVC` `Git`
+[![View Project](https://img.shields.io/badge/Voir_le_Projet-GitHub-black?style=for-the-badge)](https://github.com/kalsoumds/automl-pipeline)
 
 ---
 
-### 🤖 Fusion Camera-LiDAR pour Perception 3D
+### 🤖 **Fusion Camera-LiDAR**
 
-**Pipeline de fusion multi-capteurs pour véhicules autonomes.**
+*Système de perception 3D pour véhicules autonomes*
 
-<div align="center">
+**Technologies :** `Python` `OpenCV` `PCL` `YOLO` `NumPy`
 
-[![Code Source](https://img.shields.io/badge/��_Code_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/kalsoumds/TP4)
-
-</div>
-
-#### 🛠️ Stack
-`Python` `OpenCV` `PCL` `NumPy` `Matplotlib` `Jupyter`
+[![View Project](https://img.shields.io/badge/Voir_le_Projet-GitHub-black?style=for-the-badge)](https://github.com/kalsoumds/TP4)
 
 ---
 
-## 💻 Compétences Techniques
+## 🛠️ Compétences Techniques
 
-<div align="center">
+### 🤖 **Machine Learning & IA**
+- **Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn
+- **Deep Learning:** CNN, RNN, Transformers, Transfer Learning
+- **MLOps:** MLflow, DVC, Docker, CI/CD
+- **AutoML:** Feature Engineering, Hyperparameter Optimization
 
-### 🤖 Intelligence Artificielle & Machine Learning
-<details>
-<summary>📖 Voir les compétences IA/ML</summary>
+### 📊 **Data Science & Analyse**
+- **Langages:** Python, R, SQL, NoSQL
+- **Visualisation:** Matplotlib, Seaborn, Plotly, Tableau
+- **Statistiques:** Tests d'hypothèses, Régressions, Économétrie
+- **Big Data:** Spark, Hadoop, Cloud Platforms
 
-- **Frameworks** : TensorFlow, PyTorch, Keras, Scikit-learn  
-- **MLOps** : MLflow, DVC, Docker, CI/CD  
-- **Deep Learning** : CNN, RNN, Transformers, Transfer Learning  
-- **AutoML** : Automated Feature Engineering, Hyperparameter Optimization
-
-</details>
-
-### 📊 Data Science & Analyse
-<details>
-<summary>📖 Voir les compétences Data Science</summary>
-
-- **Langages** : Python, R, SQL, NoSQL, MongoDB  
-- **Visualisation** : Seaborn, Matplotlib, Plotly  
-- **Statistiques** : ANOVA, Tests Statistiques, Analyse Correspondance (AC)  
-- **Big Data** : Spark, Hadoop, Cloud Platforms
-
-</details>
-
-### 🔧 Ingénierie & Déploiement
-<details>
-<summary>📖 Voir les compétences Ingénierie</summary>
-
-- **Cloud** : AWS, Azure, GCP, Streamlit Cloud  
-- **Bases de données** : PostgreSQL, MongoDB, Redis  
-- **API** : REST, GraphQL, FastAPI  
-- **DevOps** : Git, Docker, Kubernetes, CI/CD
-
-</details>
-
-</div>
+### 🔧 **Ingénierie Logicielle**
+- **Cloud:** AWS, Azure, GCP, Streamlit Cloud
+- **Bases de données:** PostgreSQL, MongoDB, Redis
+- **API:** REST, GraphQL, FastAPI
+- **DevOps:** Git, Docker, Kubernetes
 
 ---
 
-## 🎓 Formation Académique
+## 🎓 Formation
 
-<div align="center">
+### 🎓 **Master Data Science & IA**
+**Université Mundiapolis de Casablanca** | 2024 - Présent
 
-### 🎓 Master Data Science & Intelligence Artificielle
-**Université Mundiapolis de Casablanca** | 2024 – Présent
-
-### 📈 Licence Mathématiques Appliquées
-**Institut Supérieur de Management (ISM)** | Dakar, Sénégal | 09/2021 – 06/2024
-
-### 🎓 Baccalauréat Scientifique Série S2
-**Institution Marc PERROT** | Dakar, Sénégal | 10/2020 – 06/2021
-
-</div>
+### 📈 **Licence Mathématiques Appliquées**
+**Institut Supérieur de Management (ISM)** | 2021 - 2024
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Expérience
 
-<div align="center">
+### 🏛️ **Gestion Financière Bénévole**
+**Association Refocus Child** | Sénégal | 2024
 
-### 🏛️ Bénévole – Gestion Financière (Trésorerie)
-**Association Refocus Child - Empire des Enfants** | Sénégal | 01/2024 – 07/2024
-
-- Soutien aux activités de gestion de trésorerie, suivi des dépenses et monitoring budgétaire
-- Assistance à l'organisation des enregistrements financiers et garantie de la précision des données
-- Contribution à l'amélioration de la transparence financière et de l'efficacité opérationnelle
-- Collaboration avec les membres de l'équipe pour le soutien aux décisions financières
-
-</div>
+*Gestion de trésorerie et monitoring budgétaire pour association caritative*
 
 ---
 
-## 🌍 Langues
+## 📈 Statistiques
 
 <div align="center">
 
-- **🇫🇷 Français** : Langue maternelle  
-- **🇺🇸 Anglais** : B1/B2 (intermédiaire – lecture et écriture technique)
-
-</div>
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&theme=radical)
 
 </div>
 
@@ -198,17 +131,15 @@ Data Scientist passionnée par l'analyse de données et l'intelligence artificie
 
 <div align="center">
 
-## 📧 Contact
+## 📞 Contact
 
-**N'hésitez pas à me contacter pour discuter de collaborations !**
+**Intéressé par une collaboration ?**
 
-[![Email](https://img.shields.io/badge/📧_Email-oumoukaltoumsall@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
-[![GitHub](https://img.shields.io/badge/🔗_GitHub-KalsoumDS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KalsoumDS)
+[![Email](https://img.shields.io/badge/Me_Contacter-par_Email-blue?style=for-the-badge&logo=gmail)](mailto:oumoukaltoumsall@gmail.com)
+[![GitHub](https://img.shields.io/badge/Voir_mes_Projets-sur_GitHub-black?style=for-the-badge&logo=github)](https://github.com/KalsoumDS)
 
 ---
 
-**🚀 Merci d'avoir visité mon portfolio !**
-
-*Créé avec ❤️ par Oumou Kaltoum Sall*
+*© 2025 Oumou Kaltoum Sall - Data Scientist*
 
 </div>
