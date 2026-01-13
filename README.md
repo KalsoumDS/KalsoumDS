@@ -2,37 +2,31 @@
 
 ## Data Scientist · Data Science & Intelligence Artificielle
 
-📍 **Ziraoui, Casablanca**  
-📧 **kalsoumds@gmail.com**  
-🔗 **GitHub** : [github.com/kalsoumds](https://github.com/kalsoumds)  
-💼 **LinkedIn** : [linkedin.com/in/kalsoum-sall](https://linkedin.com/in/kalsoum-sall)
+📍 **Casablanca, 20200, Morocco**  
+📧 **s.sall@mundiapolis.ma**  
+📱 **+212 665 682734**  
+🔗 **GitHub** : [github.com/KalsoumDS](https://github.com/KalsoumDS)
 
 ---
 
 ## 👩‍💻 À propos
 
-Data Scientist avec une formation en **mathématiques appliquées** et **data science & IA**.  
-Je conçois et déploie des solutions basées sur les données : modèles prédictifs, analyses statistiques avancées et applications interactives.
+Master's student in Data Science & Artificial Intelligence, dynamic and organized, with a strong background in Applied Mathematics and advanced analytical skills. Experienced in data-driven project development and analysis, applying machine learning and technical skills to solve real-world problems.
 
-### 🎯 Centres d'intérêt
-
-- 🩺 **Data science pour la santé**  
-- 📈 **Économétrie & analyse de politiques économiques**  
-- 🧠 **Machine Learning & Deep Learning appliqués**  
+Seeking a challenging internship to contribute to development and deployment of innovative digital solutions.
 
 ---
 
 ## 🚀 Projets Phares
 
-### 🤖 ChatAutoML-Bot – IA Avancée (2025)
+### 🤖 TabularAI – Automated Machine Learning System (2025)
 
-**Chatbot LLM pour AutoML sur données tabulaires avec interface Streamlit interactive.**
+**End-to-end AutoML system for tabular datasets with interactive interface.**
 
 #### �� Fonctionnalités
-- Chargement multi-formats (CSV, Excel, Parquet, JSON)  
-- Pipeline AutoML complet : prétraitement, rééchantillonnage, recherche de modèles, évaluation  
-- Explications en langage naturel via LLM (Ollama/OpenAI/Mistral)  
-- Détection automatique de tâche (classification/régression)  
+- Automated preprocessing, model selection, hyperparameter optimization, and evaluation  
+- Built interactive Streamlit interface for non-technical users  
+- Integrated local LLM (Ollama – Llama2) for natural language explanations  
 
 #### 🔗 Liens
 - **🌐 Live Demo** : [Tester l'application](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)  
@@ -43,15 +37,14 @@ Je conçois et déploie des solutions basées sur les données : modèles prédi
 
 ---
 
-### 🫀 Système de Prédiction Cardiovasculaire (2025)
+### 🫀 Cardiovascular Disease Prediction System (2025)
 
-**Projet complet de Machine Learning appliqué à la santé.**
+**Predictive models for cardiovascular disease with interactive visualization.**
 
 #### 🎯 Fonctionnalités
-- Modélisation du risque cardiovasculaire à partir de données patients  
-- Modèles : Régression Logistique, KNN, Arbre de Décision, Random Forest  
-- Réduction de dimension avec PCA, segmentation avec K-Means  
-- Application Streamlit pour utilisation par non-experts  
+- Implemented predictive models using Logistic Regression, KNN, Decision Tree, Random Forest, PCA, and K-Means  
+- Deployed an interactive Streamlit application for visualization and user interaction  
+- Evaluated model performance and applied feature analysis for improved predictions  
 
 #### 🔗 Liens
 - **🌐 Live Demo** : [Voir l'application](https://kalsoumds-cardiovascular-disease-prediction.streamlit.app)  
@@ -97,34 +90,20 @@ Je conçois et déploie des solutions basées sur les données : modèles prédi
 
 ---
 
-### 🤖 Robotique – Fusion Camera/LiDAR (2025)
+### 🤖 Camera-LiDAR Fusion for Enriched 3D Perception (2025)
 
-**Projet de fusion de capteurs pour détection d'objets en environnement routier (dataset KITTI).**
+**Multi-sensor fusion pipeline for autonomous vehicles.**
 
 #### 🎯 Fonctionnalités
-- Fusion de données caméra et LiDAR  
-- Détection et suivi d'objets  
-- Notebook complet avec visualisations 3D  
+- Designed and validated a multi-sensor fusion pipeline combining camera and LiDAR data  
+- Used YOLOv8 for 2D object detection and projected 3D LiDAR points onto image planes  
+- Achieved enriched 3D perception for robust detection of vehicles and pedestrians  
 
 #### 🔗 Liens
 - **💻 Code Source** : [Repo GitHub](https://github.com/kalsoumds/TP4)
 
 #### 🛠️ Stack
 `Python` `OpenCV` `PCL` `NumPy` `Matplotlib` `Jupyter`
-
----
-
-### 📈 Inclusion Financière & Croissance Économique (2024)
-
-**Étude de l'impact de l'inclusion financière sur la croissance économique dans les pays de l'UEMOA (2004–2016).**
-
-#### 🎯 Fonctionnalités
-- Modélisation avec données de panel  
-- Utilisation de STATA et R  
-- Analyses économétriques complètes et rapports techniques  
-
-#### 🛠️ Stack
-`STATA` `R` `Python` `pandas` `statsmodels`
 
 ---
 
@@ -137,9 +116,9 @@ Je conçois et déploie des solutions basées sur les données : modèles prédi
 - **AutoML** : Automated Feature Engineering, Hyperparameter Optimization  
 
 ### 📊 Data Science & Analyse
-- **Langages** : Python, R, SQL  
-- **Visualisation** : Matplotlib, Seaborn, Plotly, Tableau  
-- **Statistiques** : Tests d'hypothèses, Régression, Économétrie  
+- **Langages** : Python, R, SQL, NoSQL, MongoDB  
+- **Visualisation** : Seaborn, Matplotlib, Plotly  
+- **Statistiques** : ANOVA, Statistical Tests, Correspondence Analysis (CA)  
 - **Big Data** : Spark, Hadoop, Cloud Platforms  
 
 ### 🔧 Ingénierie & Déploiement
@@ -149,36 +128,49 @@ Je conçois et déploie des solutions basées sur les données : modèles prédi
 - **DevOps** : Git, Docker, Kubernetes, CI/CD  
 
 ### 📈 Domaines d'Expertise
-- **Santé** : Analyse médicale, Prédiction de maladies  
-- **Finance** : Risque de crédit, Détection de fraude  
-- **Transport** : Vision par ordinateur, Robotique  
-- **Marketing** : Segmentation client, Churn prediction  
+- **Machine Learning** : Predictive Modeling, Feature Engineering, Data Mining  
+- **Deep Learning** : Computer Vision, NLP, Multi-sensor Fusion  
+- **Statistiques** : Regressions, Econometrics, Analysis and communication of results  
 
 ---
 
 ## 🎓 Formation Académique
 
-### 🎓 Master en Statistiques et Économétrie
-**Université Hassan II - Casablanca** | 2023-2025  
-*Spécialisation : Économétrie quantitative et Data Science*
+### 🎓 Master's - Data Science & Artificial Intelligence
+**Mundiapolis University of Casablanca** | 2024 – Present  
+*Specialization : Data Science & AI*
 
-### 📈 Licence en Mathématiques Appliquées
-**Université Hassan II - Casablanca** | 2020-2023  
-*Mention : Bien*
+### 📈 Bachelor's Degree - Applied Mathematics
+**Institut Supérieur de Management (ISM)** | Dakar, Senegal | 09/2021 – 06/2024  
+*Focus : Applied Mathematics*
+
+### 🎓 Scientific Baccalaureate - Serie S2
+**Institution Marc PERROT** | Dakar, Senegal | 10/2020 – 06/2021  
+*Scientific High School Diploma*
+
+---
+
+## 💼 Expérience Professionnelle
+
+### 🏛️ Volunteer – Financial Management (Treasury)
+**Empire des Enfants** | Senegal | 01/2024 – Present  
+- Supported treasury management activities, including expense tracking and budget monitoring  
+- Assisted in organizing financial records and ensuring data accuracy  
+- Contributed to improving financial transparency and operational efficiency  
+- Collaborated with team members to support financial decision-making  
 
 ---
 
 ## 🌍 Langues
 
-- **🇫🇷 Français** : Langue maternelle  
-- **🇺🇸 Anglais** : Professionnel (TOEIC)  
-- **🇸🇦 Arabe** : Langue maternelle  
+- **🇫🇷 Français** : Langue maternelle (Native)  
+- **🇺🇸 Anglais** : B1/B2 (intermediate – technical reading and writing)  
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalsoumds&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_title=true)
 
 ---
 
@@ -186,10 +178,18 @@ Je conçois et déploie des solutions basées sur les données : modèles prédi
 
 **N'hésitez pas à me contacter pour discuter de collaborations !**
 
-- 📧 **Email** : [kalsoumds@gmail.com](mailto:kalsoumds@gmail.com)  
-- 🔗 **GitHub** : [github.com/kalsoumds](https://github.com/kalsoumds)  
-- 💼 **LinkedIn** : [linkedin.com/in/kalsoum-sall](https://linkedin.com/in/kalsoum-sall)  
-- 🐦 **Twitter** : [@kalsoum_sall](https://twitter.com/kalsoum_sall)  
+- 📧 **Email** : [s.sall@mundiapolis.ma](mailto:s.sall@mundiapolis.ma)  
+- 📱 **Téléphone** : +212 665 682734  
+- 🔗 **GitHub** : [github.com/KalsoumDS](https://github.com/KalsoumDS)  
+
+---
+
+## 📋 Références
+
+**Samar MOUCHAWRAB**  
+Vice President Academic Affairs • Mundiapolis University  
+📧 s.mouchawrab@mundiapolis.ma  
+📱 +212 5 290 13 712  
 
 ---
 
