@@ -153,8 +153,6 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Pipeline ML interactif
 - Explications en langage naturel
@@ -164,6 +162,9 @@
 </table>
 
 
+
+[![Voir sur GitHub](https://img.shields.io/badge/ud83dudd17_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Demo Streamlit](https://img.shields.io/badge/ud83dude80_Demo_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
 ---
 
 ### 🫀 Prédiction de Maladies Cardiovasculaires
@@ -195,8 +196,6 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Support décisionnel en santé
 - Détection précoce de maladies
@@ -237,8 +236,6 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Analyse satellitaire automatisée
 - Détection en temps réel
@@ -282,8 +279,6 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Infrastructure ML scalable
 - Systèmes prêts pour la production
@@ -327,8 +322,6 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Perception pour véhicules autonomes
 - Fusion de capteurs avancée
@@ -455,8 +448,6 @@
 
 **💡 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Meilleur contrôle financier
 - Processus rationalisés
