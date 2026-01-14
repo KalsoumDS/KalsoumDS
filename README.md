@@ -153,8 +153,8 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Pipeline ML interactif
 - Explications en langage naturel
@@ -170,7 +170,7 @@
 
 ### 🫀 Prédiction de Maladies Cardiovasculaires
 
-[![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Statut du Projet](https://img.shields.io/badge/Statut-Actif-success?style=for-the-badge)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 **Système de détection précoce des maladies cardiovasculaires utilisant plusieurs algorithmes ML.**
@@ -197,8 +197,8 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Support décisionnel en santé
 - Détection précoce de maladies
@@ -239,8 +239,8 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Analyse satellitaire automatisée
 - Détection en temps réel
@@ -284,8 +284,8 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Infrastructure ML scalable
 - Systèmes prêts pour la production
@@ -329,8 +329,8 @@
 
 **📊 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Perception pour véhicules autonomes
 - Fusion de capteurs avancée
@@ -457,8 +457,8 @@
 
 **💡 Impact**
 
-[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
-[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ChatAutoML-Bot-Streamlit-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Meilleur contrôle financier
 - Processus rationalisés
