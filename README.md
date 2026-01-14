@@ -153,6 +153,9 @@
 
 **📊 Impact**
 
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+
 - Pipeline ML interactif
 - Explications en langage naturel
 
@@ -193,6 +196,9 @@
 
 **📊 Impact**
 
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+
 - Support décisionnel en santé
 - Détection précoce de maladies
 
@@ -231,6 +237,9 @@
 <td>
 
 **📊 Impact**
+
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Analyse satellitaire automatisée
 - Détection en temps réel
@@ -274,6 +283,9 @@
 
 **📊 Impact**
 
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+
 - Infrastructure ML scalable
 - Systèmes prêts pour la production
 
@@ -315,6 +327,9 @@
 <td>
 
 **📊 Impact**
+
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Perception pour véhicules autonomes
 - Fusion de capteurs avancée
@@ -440,6 +455,9 @@
 <td width="33%" align="center">
 
 **💡 Impact**
+
+[![GitHub](https://img.shields.io/badge/ud83dudd17_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Streamlit Demo](https://img.shields.io/badge/ud83dude80_Streamlit_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
 
 - Meilleur contrôle financier
 - Processus rationalisés
