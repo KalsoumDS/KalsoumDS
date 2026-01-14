@@ -204,6 +204,9 @@
 </tr>
 </table>
 
+[![Voir sur GitHub](https://img.shields.io/badge/ud83dudd17_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/cardiovascular-disease-prediction)
+[![Demo Streamlit](https://img.shields.io/badge/ud83dude80_Demo_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cardiovascular-disease-prediction-ajmznkpqhaewp2xwdmhcgc.streamlit.app/)
+
 ---
 
 ### 🚢 Classification de Navires - Images Satellites
