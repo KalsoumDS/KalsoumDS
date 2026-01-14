@@ -160,7 +160,6 @@
 </table>
 
 [![Voir sur GitHub](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalsoumds/ChatAutoML-Bot-Streamlit)
-[![Démo Live](https://img.shields.io/badge/🚀_Démo_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://chatautoml-bot-app-eeszygzz6cnagstcd4dxqv.streamlit.app)
 
 ---
 
