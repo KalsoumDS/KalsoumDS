@@ -1,7 +1,7 @@
 # Oumou Kaltoum Sall
 
 **Data Scientist** — Casablanca, Morocco  
-📧 oumou.kalthoumsall@gmail.com | [![🌐 Portfolio](https://img.shields.io/badge/🌐_Voir_mon_Portfolio_Complet-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://kalsoumds.github.io)
+📧 oumou.kalthoumsall@gmail.com | https://kalsoumds.github.io
 
 Master student in Data Science & AI. Building ML systems from research to production.
 
