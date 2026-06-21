@@ -1,7 +1,7 @@
 # Oumou Kaltoum Sall
 
 **Data Scientist** — Casablanca, Morocco  
-📧 oumou.kalthoumsall@gmail.com
+📧 oumoukaltoumsall@gmail.com
 
 ---
 
