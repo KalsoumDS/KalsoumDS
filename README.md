@@ -10,7 +10,7 @@
 
 **Data Scientist & ML Engineer · Applied Mathematics & Data Optimization**
 
-[s.sall@mundiapolis.ma](mailto:s.sall@mundiapolis.ma) · [Portfolio](https://kalsoumds.github.io)
+[s.sall@mundiapolis.ma](mailto:s.sall@mundiapolis.ma) · [Voir mon portfolio complet →](https://kalsoumds.github.io)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -22,26 +22,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
-
----
-
-## À propos de moi
-
-Je suis **Oumou Kaltoum Sall**, **Data Scientist & ML Engineer**, passionnée par les **mathématiques appliquées**, le **machine learning** et l'**intelligence artificielle**.  
-En cours de **Master en Data Science & IA** à l'**Université Mundiapolis**, je conçois des pipelines de données intelligents, des modèles prédictifs et des systèmes d'IA générative.
-
----
-
-## Expériences clés
-
-- **Data Scientist R&D – ABA Technology (Nextronic)**  
-  Architectures Deep Learning · Pipelines de données industriels · Modèles prédictifs temps réel
-
-- **Data Scientist Freelance**  
-  Pipelines ML sur mesure · Web scraping · Visualisations de données · Clients internationaux
-
-- **Data Analyst – Refocus Child Sénégal** *(Bénévolat)*  
-  Suivi de données · Bases de données opérationnelles · Reporting
 
 ---
 
