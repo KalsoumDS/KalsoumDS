@@ -6,7 +6,7 @@
 
 **Data Scientist & ML Engineer · Applied Mathematics & Data Optimization**
 
-[s.sall@mundiapolis.ma](mailto:s.sall@mundiapolis.ma)
+[oumoukaltoumsall@gmail.com](mailto:oumoukaltoumsall@gmail.com)
 
 ### [kalsoumds.github.io](https://kalsoumds.github.io)
 
