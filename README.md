@@ -4,20 +4,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Oumou%20Kaltoum%20Sall&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://portfolio-oumou-kaltoum.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=BDA178&center=true&vCenter=true&width=600&lines=Applied+Mathematics+%26+Optimization;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+RAG+Systems;Computer+Vision+%26+Time+Series" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BDA178&center=true&vCenter=true&width=600&lines=Applied+Mathematics+%26+Optimization;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+RAG+Systems;Computer+Vision+%26+Time+Series" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- PORTFOLIO LINK — PREMIER PLAN -->
+### Visit my Portfolio
+[![portfolio-oumou-kaltoum.vercel.app](https://img.shields.io/badge/%F0%9F%94%97%20portfolio--oumou--kaltoum.vercel.app-bda178?style=for-the-badge&logoColor=white&labelColor=14110b)](https://portfolio-oumou-kaltoum.vercel.app)
 
 <br/>
 
-<!-- CONTACT BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-bda178?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oumou-kaltoum.vercel.app)
+<!-- PORTFOLIO PREVIEW — CLIQUABLE -->
+[![Portfolio Preview](https://portfolio-oumou-kaltoum.vercel.app/assets/portfolio-preview.png)](https://portfolio-oumou-kaltoum.vercel.app)
+
+<br/>
+
+<!-- CONTACT -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumou-kaltoum-sall)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
+[![Email](https://img.shields.io/badge/Email-oumoukaltoumsall%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
 
-<br/>
-
-<!-- PROFILE VIEWS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=KalsoumDS&color=bda178&style=flat-square&label=Profile+Views)
 
 </div>
@@ -26,11 +31,11 @@
 
 ## About Me
 
-> Data Scientist with a rigorous quantitative foundation in **Applied Mathematics**, specialized in deploying production-grade ML architectures and intelligent data systems.
+> Data Scientist with a rigorous quantitative foundation in **Applied Mathematics**, specialized in designing and deploying production-grade ML architectures and intelligent data systems.
 
-- **Currently:** R&D Data Scientist at ABA Technology / Nextronic, building real-time computer vision systems
-- **Expertise:** Predictive modeling · Structured RAG pipelines · Financial risk quantification · IoT anomaly detection
-- **Available for:** Remote & international opportunities in Data Science, ML Engineering & Applied AI
+- **Currently:** R&D Data Scientist — Real-time computer vision & predictive systems
+- **Expertise:** Deep Learning · Structured RAG · Financial risk modeling · Time-series & IoT
+- **Available for:** Remote & international roles in Data Science, ML Engineering & Applied AI
 
 ---
 
@@ -40,52 +45,15 @@
 
 **Languages & Core**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql,linux,git)](https://portfolio-oumou-kaltoum.vercel.app)
 
 **ML / AI Frameworks**
 
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://portfolio-oumou-kaltoum.vercel.app)
 
 **Infra & Tools**
 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/KalsoumDS)
-
-</div>
-
----
-
-## Featured Projects & Live Demos
-
-<div align="center">
-
-| Project | Description | Live Demo |
-|:--|:--|:--|
-| **FinSight** | Financial risk engine — VaR/CVaR, Monte Carlo, XGBoost/LSTM alpha signals | [▶ Demo](https://portfolio-oumou-kaltoum.vercel.app/demos/finsight.html) |
-| **ChatAutoML** | Conversational no-code ML platform with Optuna Bayesian optimization | [▶ Demo](https://portfolio-oumou-kaltoum.vercel.app/demos/chatautoml.html) |
-| **RAG Document Intelligence** | Vector search & sourced Q&A over ESG reports and regulations | [▶ Demo](https://portfolio-oumou-kaltoum.vercel.app/demos/rag.html) |
-| **Industrial Predictive Maintenance** | PyTorch autoencoder for IoT time-series anomaly detection | [▶ Demo](https://portfolio-oumou-kaltoum.vercel.app/demos/industrial.html) |
-| **Real-Time Face Recognition** | RTSP multi-camera access control, ArcFace/AdaFace benchmark, <35ms | [▶ Portfolio](https://portfolio-oumou-kaltoum.vercel.app/#case-studies) |
-
-</div>
-
----
-
-## Portfolio Preview
-
-<div align="center">
-
-> Click the preview to explore the full interactive portfolio
-
-[![Portfolio Preview](https://portfolio-oumou-kaltoum.vercel.app/assets/portfolio-preview.png)](https://portfolio-oumou-kaltoum.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=docker,fastapi,vscode,github)](https://portfolio-oumou-kaltoum.vercel.app)
 
 </div>
 
@@ -95,20 +63,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&theme=dark&hide_border=true&bg_color=14110b&title_color=bda178&icon_color=e8b14b&text_color=f3e8d4&ring_color=bda178" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&theme=dark&hide_border=true&bg_color=14110b&title_color=bda178&text_color=f3e8d4" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_border=true&bg_color=14110b&title_color=bda178&icon_color=e8b14b&text_color=f3e8d4&ring_color=bda178" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&hide_border=true&bg_color=14110b&title_color=bda178&text_color=f3e8d4" height="155"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KalsoumDS&theme=dark&hide_border=true&background=14110b&ring=bda178&fire=e8b14b&currStreakLabel=bda178&sideLabels=f3e8d4&currStreakNum=f3e8d4&dates=f3e8d4&sideNums=f3e8d4" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KalsoumDS&hide_border=true&background=14110b&ring=bda178&fire=e8b14b&currStreakLabel=bda178&sideLabels=f3e8d4&currStreakNum=f3e8d4&dates=f3e8d4&sideNums=f3e8d4" height="145"/>
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
-
 </div>
