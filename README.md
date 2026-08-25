@@ -1,79 +1,68 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Oumou%20Kaltoum%20Sall&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+# Oumou Kaltoum Sall
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BDA178&center=true&vCenter=true&width=600&lines=Applied+Mathematics+%26+Optimization;Machine+Learning+%26+Deep+Learning;Generative+AI+%26+RAG+Systems;Computer+Vision+%26+Time+Series" alt="Typing SVG" />
+**Data Scientist & Machine Learning Engineer**
 
-<br/><br/>
-
-<!-- PORTFOLIO LINK — PREMIER PLAN -->
-### Visit my Portfolio
-[![portfolio-oumou-kaltoum.vercel.app](https://img.shields.io/badge/%F0%9F%94%97%20portfolio--oumou--kaltoum.vercel.app-bda178?style=for-the-badge&logoColor=white&labelColor=14110b)](https://portfolio-oumou-kaltoum.vercel.app)
+Applied Mathematics · Deep Learning · Generative AI & RAG · Computer Vision
 
 <br/>
 
-<!-- PORTFOLIO PREVIEW — CLIQUABLE -->
-[![Portfolio Preview](https://portfolio-oumou-kaltoum.vercel.app/assets/portfolio-preview.png)](https://portfolio-oumou-kaltoum.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio--oumou--kaltoum.vercel.app-bda178?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-oumou-kaltoum.vercel.app)
 
 <br/>
 
-<!-- CONTACT -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumou-kaltoum-sall)
-[![Email](https://img.shields.io/badge/Email-oumoukaltoumsall%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=KalsoumDS&color=bda178&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumou-kaltoum-sall)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oumoukaltoumsall@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+### About
 
-> Data Scientist with a rigorous quantitative foundation in **Applied Mathematics**, specialized in designing and deploying production-grade ML architectures and intelligent data systems.
+Data Scientist with a rigorous foundation in **Applied Mathematics**, specialized in production-grade ML systems and intelligent data pipelines.
 
-- **Currently:** R&D Data Scientist — Real-time computer vision & predictive systems
-- **Expertise:** Deep Learning · Structured RAG · Financial risk modeling · Time-series & IoT
-- **Available for:** Remote & international roles in Data Science, ML Engineering & Applied AI
+- R&D Data Scientist — Real-time computer vision & predictive systems
+- Deep Learning · Structured RAG · Financial risk modeling · Time-series & IoT
+- Available for remote & international opportunities
 
 ---
 
-## Tech Stack
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+### Portfolio Preview
 
 <div align="center">
 
-**Languages & Core**
+[![Portfolio](https://portfolio-oumou-kaltoum.vercel.app/assets/portfolio-preview.png)](https://portfolio-oumou-kaltoum.vercel.app)
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,mysql,linux,git)](https://portfolio-oumou-kaltoum.vercel.app)
-
-**ML / AI Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://portfolio-oumou-kaltoum.vercel.app)
-
-**Infra & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,fastapi,vscode,github)](https://portfolio-oumou-kaltoum.vercel.app)
+*Click the image to explore the interactive portfolio & live demos*
 
 </div>
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_border=true&bg_color=14110b&title_color=bda178&icon_color=e8b14b&text_color=f3e8d4&ring_color=bda178" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&hide_border=true&bg_color=14110b&title_color=bda178&text_color=f3e8d4" height="155"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=KalsoumDS&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bda178&icon_color=e8b14b&text_color=c9d1d9)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoumDS&layout=compact&hide_border=true&bg_color=0d1117&title_color=bda178&text_color=c9d1d9)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KalsoumDS&hide_border=true&background=14110b&ring=bda178&fire=e8b14b&currStreakLabel=bda178&sideLabels=f3e8d4&currStreakNum=f3e8d4&dates=f3e8d4&sideNums=f3e8d4" height="145"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
